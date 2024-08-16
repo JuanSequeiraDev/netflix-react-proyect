@@ -1,0 +1,547 @@
+[
+    {
+        "usuario": "Juan",
+        "img_perfil": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/vN7bi_My87NPKvsBoib006Llxzg/AAAABc_A-56gDkga3_sCIFD4j42DhoSL6MMuDlMFnzfBL7q-7dLv4t7Ujo12ohv32J1q8bmWUZi1W91qqgaJSmO78ulzBLwVh3mT-ULW.png?r=5a3",
+        "user_id": 1,
+        "continuar": [
+            {
+                "serie": "The Witcher",
+                "capitulo": "T3 E1",
+                "visto": 35,
+                "serie_id": 1
+            },
+            {
+                "serie": "Dr House",
+                "capitulo": "T6 E4",
+                "visto": 79,
+                "serie_id":2
+            },
+            {
+                "serie": "Bojack Horseman",
+                "capitulo": "T2 E4",
+                "visto": 1,
+                "serie_id":3
+            },
+            {
+                "serie": "One Piece",
+                "capitulo": "T9 E159",
+                "visto": 95,
+                "serie_id":4
+            },
+            {
+                "serie": "La Sociedad de la Nieve",
+                "capitulo": "Restante",
+                "visto": 55,
+                "serie_id":5
+            }
+        ],
+        "top_10_semanal":[
+            {
+                "serie": "The Witcher",
+                "capitulo": "3 Temporadas",
+                "visto": 0,
+                "puesto": 1,
+                "serie_id":6
+            },
+            {
+                "serie": "The Umbrella Academy",
+                "capitulo": "5 Temporadas",
+                "visto": 0,
+                "puesto": 2,
+                "serie_id":7
+            },
+            {
+                "serie": "Kingsman",
+                "capitulo": "1h 49min",
+                "visto": 0,
+                "puesto": 3,
+                "serie_id":8
+            },
+            {
+                "serie": "Vikingos",
+                "capitulo": "10 Temporadas",
+                "visto": 0,
+                "puesto": 4,
+                "serie_id":9
+            },
+            {
+                "serie": "Son como niños 2",
+                "capitulo": "1h 55min",
+                "visto": 0,
+                "puesto": 5,
+                "serie_id":10
+            },
+            {
+                "serie": "Baki",
+                "capitulo": "4 Temporadas",
+                "visto": 0,
+                "puesto": 6,
+                "serie_id":11
+            },
+            {
+                "serie": "Bebe Reno",
+                "capitulo": "Miniserie",
+                "visto": 0,
+                "puesto": 7,
+                "serie_id":12
+            },
+            {
+                "serie": "Rick and Morty",
+                "capitulo": "5 Temporadas",
+                "visto": 0,
+                "puesto": 8,
+                "serie_id":13
+            },
+            {
+                "serie": "Suits",
+                "capitulo": "9 Temporadas",
+                "visto": 0,
+                "puesto": 9,
+                "serie_id":14
+            },
+            {
+                "serie": "La Sociedad de la Nieve",
+                "capitulo": "2h 15min",
+                "visto": 0,
+                "puesto": 10,
+                "serie_id":15
+            }
+        ]
+    },
+    {
+        "usuario": "Pepe",
+        "img_perfil": "https://asset-cf-cdn.glowing.com/forum/05d1676cea75ffd2fa43438b49d12a2a.jpg",
+        "user_id": 2,
+        "continuar": [
+            {
+                "serie": "The Witcher",
+                "capitulo": "T3 E1",
+                "visto": 35,
+                "serie_id": 1
+            },
+            {
+                "serie": "Dr House",
+                "capitulo": "T6 E4",
+                "visto": 79,
+                "serie_id":2
+            },
+            {
+                "serie": "Bojack Horseman",
+                "capitulo": "T2 E4",
+                "visto": 1,
+                "serie_id":3
+            },
+            {
+                "serie": "One Piece",
+                "capitulo": "T9 E159",
+                "visto": 95,
+                "serie_id":4
+            },
+            {
+                "serie": "La Sociedad de la Nieve",
+                "capitulo": "Restante",
+                "visto": 55,
+                "serie_id":5
+            }
+        ],
+        "top_10_semanal":[
+            {
+                "serie": "The Witcher",
+                "capitulo": "3 Temporadas",
+                "visto": 0,
+                "puesto": 1,
+                "serie_id":6
+            },
+            {
+                "serie": "The Umbrella Academy",
+                "capitulo": "5 Temporadas",
+                "visto": 0,
+                "puesto": 2,
+                "serie_id":7
+            },
+            {
+                "serie": "Kingsman",
+                "capitulo": "1h 49min",
+                "visto": 0,
+                "puesto": 3,
+                "serie_id":8
+            },
+            {
+                "serie": "Vikingos",
+                "capitulo": "10 Temporadas",
+                "visto": 0,
+                "puesto": 4,
+                "serie_id":9
+            },
+            {
+                "serie": "Son como niños 2",
+                "capitulo": "1h 55min",
+                "visto": 0,
+                "puesto": 5,
+                "serie_id":10
+            },
+            {
+                "serie": "Baki",
+                "capitulo": "4 Temporadas",
+                "visto": 0,
+                "puesto": 6,
+                "serie_id":11
+            },
+            {
+                "serie": "Bebe Reno",
+                "capitulo": "Miniserie",
+                "visto": 0,
+                "puesto": 7,
+                "serie_id":12
+            },
+            {
+                "serie": "Rick and Morty",
+                "capitulo": "5 Temporadas",
+                "visto": 0,
+                "puesto": 8,
+                "serie_id":13
+            },
+            {
+                "serie": "Suits",
+                "capitulo": "9 Temporadas",
+                "visto": 0,
+                "puesto": 9,
+                "serie_id":14
+            },
+            {
+                "serie": "La Sociedad de la Nieve",
+                "capitulo": "2h 15min",
+                "visto": 0,
+                "puesto": 10,
+                "serie_id":15
+            }
+        ]
+    },
+    {
+        "usuario": "Hermano1",
+        "img_perfil": "https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-vnl1thqrh02x7ra2.jpg",
+        "user_id": 3,
+        "continuar": [
+            {
+                "serie": "The Witcher",
+                "capitulo": "T3 E1",
+                "visto": 35,
+                "serie_id": 1
+            },
+            {
+                "serie": "Dr House",
+                "capitulo": "T6 E4",
+                "visto": 79,
+                "serie_id":2
+            },
+            {
+                "serie": "Bojack Horseman",
+                "capitulo": "T2 E4",
+                "visto": 1,
+                "serie_id":3
+            },
+            {
+                "serie": "One Piece",
+                "capitulo": "T9 E159",
+                "visto": 95,
+                "serie_id":4
+            },
+            {
+                "serie": "La Sociedad de la Nieve",
+                "capitulo": "Restante",
+                "visto": 55,
+                "serie_id":5
+            }
+        ],
+        "top_10_semanal":[
+            {
+                "serie": "The Witcher",
+                "capitulo": "3 Temporadas",
+                "visto": 0,
+                "puesto": 1,
+                "serie_id":6
+            },
+            {
+                "serie": "The Umbrella Academy",
+                "capitulo": "5 Temporadas",
+                "visto": 0,
+                "puesto": 2,
+                "serie_id":7
+            },
+            {
+                "serie": "Kingsman",
+                "capitulo": "1h 49min",
+                "visto": 0,
+                "puesto": 3,
+                "serie_id":8
+            },
+            {
+                "serie": "Vikingos",
+                "capitulo": "10 Temporadas",
+                "visto": 0,
+                "puesto": 4,
+                "serie_id":9
+            },
+            {
+                "serie": "Son como niños 2",
+                "capitulo": "1h 55min",
+                "visto": 0,
+                "puesto": 5,
+                "serie_id":10
+            },
+            {
+                "serie": "Baki",
+                "capitulo": "4 Temporadas",
+                "visto": 0,
+                "puesto": 6,
+                "serie_id":11
+            },
+            {
+                "serie": "Bebe Reno",
+                "capitulo": "Miniserie",
+                "visto": 0,
+                "puesto": 7,
+                "serie_id":12
+            },
+            {
+                "serie": "Rick and Morty",
+                "capitulo": "5 Temporadas",
+                "visto": 0,
+                "puesto": 8,
+                "serie_id":13
+            },
+            {
+                "serie": "Suits",
+                "capitulo": "9 Temporadas",
+                "visto": 0,
+                "puesto": 9,
+                "serie_id":14
+            },
+            {
+                "serie": "La Sociedad de la Nieve",
+                "capitulo": "2h 15min",
+                "visto": 0,
+                "puesto": 10,
+                "serie_id":15
+            }
+        ]
+    },
+    {
+        "usuario": "Hermano2",
+        "img_perfil": "https://avatars.githubusercontent.com/u/48315089?v=4",
+        "user_id": 4,
+        "continuar": [
+            {
+                "serie": "The Witcher",
+                "capitulo": "T3 E1",
+                "visto": 35,
+                "serie_id": 1
+            },
+            {
+                "serie": "Dr House",
+                "capitulo": "T6 E4",
+                "visto": 79,
+                "serie_id":2
+            },
+            {
+                "serie": "Bojack Horseman",
+                "capitulo": "T2 E4",
+                "visto": 1,
+                "serie_id":3
+            },
+            {
+                "serie": "One Piece",
+                "capitulo": "T9 E159",
+                "visto": 95,
+                "serie_id":4
+            },
+            {
+                "serie": "La Sociedad de la Nieve",
+                "capitulo": "Restante",
+                "visto": 55,
+                "serie_id":5
+            }
+        ],
+        "top_10_semanal":[
+            {
+                "serie": "The Witcher",
+                "capitulo": "3 Temporadas",
+                "visto": 0,
+                "puesto": 1,
+                "serie_id":6
+            },
+            {
+                "serie": "The Umbrella Academy",
+                "capitulo": "5 Temporadas",
+                "visto": 0,
+                "puesto": 2,
+                "serie_id":7
+            },
+            {
+                "serie": "Kingsman",
+                "capitulo": "1h 49min",
+                "visto": 0,
+                "puesto": 3,
+                "serie_id":8
+            },
+            {
+                "serie": "Vikingos",
+                "capitulo": "10 Temporadas",
+                "visto": 0,
+                "puesto": 4,
+                "serie_id":9
+            },
+            {
+                "serie": "Son como niños 2",
+                "capitulo": "1h 55min",
+                "visto": 0,
+                "puesto": 5,
+                "serie_id":10
+            },
+            {
+                "serie": "Baki",
+                "capitulo": "4 Temporadas",
+                "visto": 0,
+                "puesto": 6,
+                "serie_id":11
+            },
+            {
+                "serie": "Bebe Reno",
+                "capitulo": "Miniserie",
+                "visto": 0,
+                "puesto": 7,
+                "serie_id":12
+            },
+            {
+                "serie": "Rick and Morty",
+                "capitulo": "5 Temporadas",
+                "visto": 0,
+                "puesto": 8,
+                "serie_id":13
+            },
+            {
+                "serie": "Suits",
+                "capitulo": "9 Temporadas",
+                "visto": 0,
+                "puesto": 9,
+                "serie_id":14
+            },
+            {
+                "serie": "La Sociedad de la Nieve",
+                "capitulo": "2h 15min",
+                "visto": 0,
+                "puesto": 10,
+                "serie_id":15
+            }
+        ]
+    },
+    {
+        "usuario": "Niños",
+        "img_perfil": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/vN7bi_My87NPKvsBoib006Llxzg/AAAABQ2L2FczTt0lom-DU1nnFyFd_7w5xD0i3yzly2R0qQG3Qn7iNHWv-Gsa-8WHghCLeP5MyGhTsNOspcwoYAqR5x5VwuB972e7PFO-.png?r=25d",
+        "user_id": 5,
+        "continuar": [
+            {
+                "serie": "The Witcher",
+                "capitulo": "T3 E1",
+                "visto": 35,
+                "serie_id": 1
+            },
+            {
+                "serie": "Dr House",
+                "capitulo": "T6 E4",
+                "visto": 79,
+                "serie_id":2
+            },
+            {
+                "serie": "Bojack Horseman",
+                "capitulo": "T2 E4",
+                "visto": 1,
+                "serie_id":3
+            },
+            {
+                "serie": "One Piece",
+                "capitulo": "T9 E159",
+                "visto": 95,
+                "serie_id":4
+            },
+            {
+                "serie": "La Sociedad de la Nieve",
+                "capitulo": "Restante",
+                "visto": 55,
+                "serie_id":5
+            }
+        ],
+        "top_10_semanal":[
+            {
+                "serie": "The Witcher",
+                "capitulo": "3 Temporadas",
+                "visto": 0,
+                "puesto": 1,
+                "serie_id":6
+            },
+            {
+                "serie": "The Umbrella Academy",
+                "capitulo": "5 Temporadas",
+                "visto": 0,
+                "puesto": 2,
+                "serie_id":7
+            },
+            {
+                "serie": "Kingsman",
+                "capitulo": "1h 49min",
+                "visto": 0,
+                "puesto": 3,
+                "serie_id":8
+            },
+            {
+                "serie": "Vikingos",
+                "capitulo": "10 Temporadas",
+                "visto": 0,
+                "puesto": 4,
+                "serie_id":9
+            },
+            {
+                "serie": "Son como niños 2",
+                "capitulo": "1h 55min",
+                "visto": 0,
+                "puesto": 5,
+                "serie_id":10
+            },
+            {
+                "serie": "Baki",
+                "capitulo": "4 Temporadas",
+                "visto": 0,
+                "puesto": 6,
+                "serie_id":11
+            },
+            {
+                "serie": "Bebe Reno",
+                "capitulo": "Miniserie",
+                "visto": 0,
+                "puesto": 7,
+                "serie_id":12
+            },
+            {
+                "serie": "Rick and Morty",
+                "capitulo": "5 Temporadas",
+                "visto": 0,
+                "puesto": 8,
+                "serie_id":13
+            },
+            {
+                "serie": "Suits",
+                "capitulo": "9 Temporadas",
+                "visto": 0,
+                "puesto": 9,
+                "serie_id":14
+            },
+            {
+                "serie": "La Sociedad de la Nieve",
+                "capitulo": "2h 15min",
+                "visto": 0,
+                "puesto": 10,
+                "serie_id":15
+            }
+        ]
+    }
+]

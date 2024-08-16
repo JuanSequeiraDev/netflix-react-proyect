@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Geologica:wght@100..900&family=Oswald:wght@200..700&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.user-screen-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* justify-content: space-between; */
+    padding: 10px 20px 10px 20px;
+    background-color: rgb(5, 5, 5);
+    height: 10vh;
+}
+
+.netflix-name-small{
+    font-family: "Bebas Neue", sans-serif;
+    color: red;
+    letter-spacing: 2.5px;
+}
+
+.edit-profile{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    font-size: 20px;
+    color: white;
+}
+
+.screen-icons{
+    display: none;
+    gap: 10px;
+}
+
+.user-screen-main{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(5, 5, 5);
+    min-height: 90vh;
+    height: 100%;
+    width: 100%;
+    padding-bottom: 60px;
+}
+
+.welcome-text{
+    font-family: sans-serif;
+    font-size: 14px;
+    color: white;
+}
+
+.link{
+    text-decoration: none;
+    outline: none;
+    border: none;
+}
+
+.nav-usuarios{
+    display: grid;
+    grid-template-rows: 60px 60px;
+    grid-template-columns: 60px 60px;
+    column-gap: 35px;
+    row-gap: 40px;
+}
+
+.box-usuario{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+}
+
+.img_usuario{
+    width: 75px;
+    height: 75px;
+    border-radius: 5px;
+}
+
+.user-name{
+    font-family: sans-serif;
+    font-size: 11px;
+    color: white;
+}
