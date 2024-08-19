@@ -1,6 +1,12 @@
 [
     {
         "usuario": "Juan",
+        "recomendacion": {
+            "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRgvbnr6dA8Qs_PGmXfY13rfhn0qXF2arU2XsMfn_MyQKoCoSjiZhljxEv8MeqU-nTGzvIZSWMVEec06NDQNgssrS4RzFWDohVK8.webp?r=d69",
+            "nombre": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfchCklC2sEhgjSewdtJFzHFyLDd-3ZkysmiEOXcR0cI2f2IQdh5mMOvMDG0SY4_1yeJ9NuTf9H6JFOVbel2jWU2ND9vnu5yGIXUrL7b077FjjynIfK8e5zP2iFl1A2aXidDIgnF9J-jEqXbPtKwM4UQReihnD-xHwdZl1R2GxBTN9r0d2MOFw.webp?r=b09",
+            "descripcion": "Un adicto al trabajo obsesionado con el celular enfrenta una crisis en su matrimonio. Para no perder a su esposa, empieza una desintoxicación digital plagada de momentos cómicos.",
+            "top10puesto": "https://www.netflix.com/tudum/top10/images/top10.png"
+        },
         "img_perfil": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/vN7bi_My87NPKvsBoib006Llxzg/AAAABc_A-56gDkga3_sCIFD4j42DhoSL6MMuDlMFnzfBL7q-7dLv4t7Ujo12ohv32J1q8bmWUZi1W91qqgaJSmO78ulzBLwVh3mT-ULW.png?r=5a3",
         "user_id": 1,
         "continuar": [
@@ -8,326 +14,389 @@
                 "serie": "The Witcher",
                 "capitulo": "T3 E1",
                 "visto": 35,
-                "serie_id": 1
+                "serie_id": 1,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVpbITlDnGaL6vRFLUgkyzlOfOuukvD99oZ5o8eVXNDAzSEJqhwo812zcNSdmEfsUpe1930dnLW6qPGYMtBDzrEsKKzz-Ub3iPs_TGHHTWNC-okd2k_wnChRkXvIhS0Itmk0.jpg?r=b1f"
             },
             {
                 "serie": "Dr House",
                 "capitulo": "T6 E4",
                 "visto": 79,
-                "serie_id":2
+                "serie_id": 2,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd1aJaPNuX9Jhjcj-o_wGRWegAMyAhzotyTua0Vai3nuLnoyJC1UZxLsnQdAV_ccQ8cIiaAnC84FH8a4awgr3bwxsbouXEO1PWw.webp?r=2cb"
             },
             {
                 "serie": "Bojack Horseman",
                 "capitulo": "T2 E4",
                 "visto": 1,
-                "serie_id":3
+                "serie_id": 3,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaPXz7v2NuyiSemal6D36nkcyn9nORgB7bOfyWtUz1lUQgUExwnWYbGRFeACqn5vjUibRnuZGI4MKcdUetzZrlQPizurNnbkWLA1-hmz2CyXsE23F4x1melfVNXp5lzUoKSp.jpg?r=37e"
             },
             {
                 "serie": "One Piece",
                 "capitulo": "T9 E159",
                 "visto": 95,
-                "serie_id":4
+                "serie_id": 4,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZhSvREqYV5gw6FCEHnVOEKtyjOpJNYmAp_GhPffYMoHcDLCi9yq3l8xlm1OB91eMPZHaYuz7zHdk_GtUJbBQ5XiD4Pa1_IPgx0ooiwruuASDIWsZyjyMB3z9LhK2CINy_CaqRcu62biObh9IQSjHZhBVmZDuGnoS1bXRuzdd2FYBQb-5iF0pGTCzbc03GVt3anOVd1Os6qY-T6kEBuZ-WtR9TAuj_Gl1mmXf0NKjxhEs__Que_1hauAk4F0fwi3VBIpWX9lSYLadTxBgWCwcch82cF3YEtQ8NB94OuHqJLCqcIQsk6CzujqjtwJGEF1ssqYeg1HVOxopli7ObZqWV5uny0pazlhYKA0kF_xEj1RffmJAkMK53aqopuSKdtvogP4nLKU2KpZjQtmDwhtVpeVuxGjrn3Vjtq4tnHidBZWckDY.webp?r=79f"
             },
             {
                 "serie": "La Sociedad de la Nieve",
                 "capitulo": "Restante",
                 "visto": 55,
-                "serie_id":5
+                "serie_id": 5,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUHRQw5V7O4tQs40UzIGwfvUWmNHtWWpqa42PvQp4IlR97uy2mUE1j2yHm01PTI0tdY7at0PZAU4bzlV9u1tlaLa9EnyPpTXV8lMPtNMsSdQl-HOtsVZf58_eX4azZWaz7Ld.jpg?r=376"
             }
         ],
-        "top_10_semanal":[
+        "top_10_semanal": [
             {
                 "serie": "The Witcher",
                 "capitulo": "3 Temporadas",
                 "visto": 0,
                 "puesto": 1,
-                "serie_id":6
+                "serie_id": 6,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVpbITlDnGaL6vRFLUgkyzlOfOuukvD99oZ5o8eVXNDAzSEJqhwo812zcNSdmEfsUpe1930dnLW6qPGYMtBDzrEsKKzz-Ub3iPs_TGHHTWNC-okd2k_wnChRkXvIhS0Itmk0.jpg?r=b1f"
             },
             {
                 "serie": "The Umbrella Academy",
                 "capitulo": "5 Temporadas",
                 "visto": 0,
                 "puesto": 2,
-                "serie_id":7
+                "serie_id": 7,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVeT8LEgs_RErIkeCaBNCy5MNjl9HgeoKjVS7u3Ai3CKm5fUTsG9vKBluR63flflcaQg3Lyfpo_YHMEF1l01QPwupHsotsH4rqotQcq_6OkljOeudlUkjdO3-5v0Q_DOpAxLkGPSN-aenWpoQPYIYvl_oYBCtBQNKcxWoy3Vv3SFlrDi932j8myhVj4BLtUN07jkJv0bNEZrAGBF0Fj84aJOKJYKFzft9YDWQTmbULi8G9m2E8Eyn63DOKap4l45w7WsRngOkmM7N3YdZ39vwwm5BVc6V_b8JRQzJwwUhDzMAI3hIhtSqwpNmXGx-aHxMoSn18fLd_9HHtUwjBIVlGo7AEKDw9jKLhpFPlE8--uhSDODqNmH.jpg?r=9e7"
             },
             {
                 "serie": "Kingsman",
                 "capitulo": "1h 49min",
                 "visto": 0,
                 "puesto": 3,
-                "serie_id":8
+                "serie_id": 8,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABatNe1zMoid7Am7pmugZriBM7Ifjblw2N66ZkZLUNJTHtQZZWUq19J3m8yYDM3oIqnJ7WvX5yE4UPQkouoWKM95ut3sFdjF-WqNyQq1fNQmXVK8R7QeHJai5-lY6mrEdqXoTA3i1pzwLzCj51dIoo91paKkkvbZ1K5XVkXjD6FvYNSWlApGNoZq915kTQeZxoQkXPMZSQpcQAU2uHkzb8hyYCdGG72X4kGYalolqS0cvhJt-1HDKvwf7cVeHzahfgvv5sjTnmEji_thOKK9DfjsSfPHQ_o8.webp?r=066"
             },
             {
                 "serie": "Vikingos",
                 "capitulo": "10 Temporadas",
                 "visto": 0,
                 "puesto": 4,
-                "serie_id":9
+                "serie_id": 9,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSSe-2NUqBEw-sNQ1sCTX-LcXYFJUCiBcJNbRLk8PC_yYbXxd3Sj7Yjz1qBx9u5kq5StCHlI5wLMDlmkdkrKOC8PBF_SqDiwZv0.webp?r=21a"
             },
             {
                 "serie": "Son como niños 2",
                 "capitulo": "1h 55min",
                 "visto": 0,
                 "puesto": 5,
-                "serie_id":10
+                "serie_id": 10,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZEAtk6FrN5lv1pVQtNmhpyAW_btkb8mOtMJhI6VIzj4FYZwJOa9LCLcF6kDvvgPoeGwJzDlnsKlMvINuLIC1UrjlWZd-LrFico.webp?r=6b6"
             },
             {
                 "serie": "Baki",
                 "capitulo": "4 Temporadas",
                 "visto": 0,
                 "puesto": 6,
-                "serie_id":11
+                "serie_id": 11,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXeYUgr_03NcXHzYWF46P-zqcRmJW42XxSJIDI4Faj3l0_qyWNnxyiIduq2xQqi0ffVFIzq9aUeAEkz5PQ8_KhqMg9af2HAv6dG5Kfs1aZtI8ge-fU4gLDvvzCLU_wEY-oyf.jpg?r=fef"
             },
             {
                 "serie": "Bebe Reno",
                 "capitulo": "Miniserie",
                 "visto": 0,
                 "puesto": 7,
-                "serie_id":12
+                "serie_id": 12,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe5gwaX7Y5UIkK0Zo4OS9my_VjfEgGjLvk5IFuYRO0urt2kFaSshSGZML2x5xiNBElsIeLEFw0NoNDar3qfuRqNdfuHYvGv7eNI5OHwAV5a1cTIo4qSvqn2yMWOr2kllf5qa.jpg?r=a9c"
             },
             {
-                "serie": "Rick and Morty",
+                "serie": "Un show mas",
                 "capitulo": "5 Temporadas",
                 "visto": 0,
                 "puesto": 8,
-                "serie_id":13
+                "serie_id": 13,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZnZTnsymjcVSbZhYLbRu-xwdd2zsebiiTKgG70A1bDv-l0C0ZLCTNZTu4erkCDAqXyJn8dSYV_WEXDqJJuf-uZu82q6YtCP6rc.webp?r=f7b"
             },
             {
                 "serie": "Suits",
                 "capitulo": "9 Temporadas",
                 "visto": 0,
                 "puesto": 9,
-                "serie_id":14
+                "serie_id": 14,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZozzIT6Q0pVlthNws4VrbZeIKWGfV6eWcP4YVbwVVEMzeuY2bSeoB6nKamHfWzvrJp1drx1qIEdvSbBTLUN0n3veIE2IPUG5q4.webp?r=bd5"
             },
             {
-                "serie": "La Sociedad de la Nieve",
+                "serie": "Breaking Bad",
                 "capitulo": "2h 15min",
                 "visto": 0,
                 "puesto": 10,
-                "serie_id":15
+                "serie_id": 15,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTY_oFMWa4w_MOegHro1RQFJygb7yu6ECJNjt0DIKOAEA00qkrtT2db1NM6RKMyEuhv4LPUrF96wCiAEvoSewxNHpcLSAQvrnr4.webp?r=c69"
             }
         ]
     },
     {
-        "usuario": "Pepe",
+        "usuario": "Pepe",  
+        "recomendacion": {
+            "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRgvbnr6dA8Qs_PGmXfY13rfhn0qXF2arU2XsMfn_MyQKoCoSjiZhljxEv8MeqU-nTGzvIZSWMVEec06NDQNgssrS4RzFWDohVK8.webp?r=d69",
+            "nombre": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfchCklC2sEhgjSewdtJFzHFyLDd-3ZkysmiEOXcR0cI2f2IQdh5mMOvMDG0SY4_1yeJ9NuTf9H6JFOVbel2jWU2ND9vnu5yGIXUrL7b077FjjynIfK8e5zP2iFl1A2aXidDIgnF9J-jEqXbPtKwM4UQReihnD-xHwdZl1R2GxBTN9r0d2MOFw.webp?r=b09",
+            "descripcion": "Un adicto al trabajo obsesionado con el celular enfrenta una crisis en su matrimonio. Para no perder a su esposa, empieza una desintoxicación digital plagada de momentos cómicos.",
+            "top10puesto": "https://www.netflix.com/tudum/top10/images/top10.png"
+        },
         "img_perfil": "https://asset-cf-cdn.glowing.com/forum/05d1676cea75ffd2fa43438b49d12a2a.jpg",
         "user_id": 2,
         "continuar": [
             {
-                "serie": "The Witcher",
-                "capitulo": "T3 E1",
-                "visto": 35,
-                "serie_id": 1
+                "serie": "Los 100",
+                "capitulo": "T5 E10",
+                "visto": 0,
+                "serie_id": 1,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU_gE8i8tlxagDUmxwpT_wqFkUABMJESofGpiyuE4B7sW-KKNiTaVtpk8liCBaU--7SGzhDNFL8UzRCv_O8jzOgMBK5VY5jIvA_Q3fyzJf0m3c_kCZ1Xpf3AXiyKladqoJTJx4KMiEIvATBA9JyIUZFTIhImP39QzJ24oSkURHJI2Wl3G8f3wvOAHQivKdCXbPySNC-3HzRys6ZfR6Ua-OnT52wD3t5KFEjYDvFHK3W1c6_GNtKbgRuRyTgjYU02ODSCgFs3jAMDf2N18ytL7nirkA.webp?r=93c"
             },
             {
-                "serie": "Dr House",
-                "capitulo": "T6 E4",
-                "visto": 79,
-                "serie_id":2
+                "serie": "Dexter",
+                "capitulo": "T1 E4",
+                "visto": 85,
+                "serie_id": 2,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbuTiGyl7c0avqMX8GRLsN-gYvDliRqUY9k1Rgf-8gYSNnJJu36dG9n4adfPghBvS2B8-H3IV4y6409M2u8HYAJbrD4mT6PRQ8g.webp?r=58c"
             },
             {
                 "serie": "Bojack Horseman",
-                "capitulo": "T2 E4",
-                "visto": 1,
-                "serie_id":3
+                "capitulo": "T4 E1",
+                "visto": 0,
+                "serie_id": 3,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaPXz7v2NuyiSemal6D36nkcyn9nORgB7bOfyWtUz1lUQgUExwnWYbGRFeACqn5vjUibRnuZGI4MKcdUetzZrlQPizurNnbkWLA1-hmz2CyXsE23F4x1melfVNXp5lzUoKSp.jpg?r=37e"
             },
             {
-                "serie": "One Piece",
-                "capitulo": "T9 E159",
-                "visto": 95,
-                "serie_id":4
+                "serie": "Love Death and Robots",
+                "capitulo": "T3 E3",
+                "visto": 15,
+                "serie_id": 4,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXXQudoXff2AV-wPIAUwUcVrlni4kDuE00H4cenXz2ORBVjM64psPIWItw2Vnd8bQ_qzlSjtJ7G8KrGoR5lZaOc9HVaF2L4VO5oobaouQZhGHV_MeD5xYms5dNjRH7Gy1ArG.jpg?r=003"
             },
             {
-                "serie": "La Sociedad de la Nieve",
-                "capitulo": "Restante",
-                "visto": 55,
-                "serie_id":5
+                "serie": "Supercool",
+                "capitulo": "1h 45min",
+                "visto": 67,
+                "serie_id": 5,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTfukuVnAaPGDXMOUYZQHWdC0CFuMCIT5WELdG9OlWMPxgVFefqz7Zo6tPLLk0wVOdXVXMa3Kzku-ejyj4mJBTZUF26pU9-XTok.webp?r=bf4"
             }
         ],
-        "top_10_semanal":[
+        "top_10_semanal": [
             {
                 "serie": "The Witcher",
                 "capitulo": "3 Temporadas",
                 "visto": 0,
                 "puesto": 1,
-                "serie_id":6
+                "serie_id": 6,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVpbITlDnGaL6vRFLUgkyzlOfOuukvD99oZ5o8eVXNDAzSEJqhwo812zcNSdmEfsUpe1930dnLW6qPGYMtBDzrEsKKzz-Ub3iPs_TGHHTWNC-okd2k_wnChRkXvIhS0Itmk0.jpg?r=b1f"
             },
             {
                 "serie": "The Umbrella Academy",
                 "capitulo": "5 Temporadas",
                 "visto": 0,
                 "puesto": 2,
-                "serie_id":7
+                "serie_id": 7,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVeT8LEgs_RErIkeCaBNCy5MNjl9HgeoKjVS7u3Ai3CKm5fUTsG9vKBluR63flflcaQg3Lyfpo_YHMEF1l01QPwupHsotsH4rqotQcq_6OkljOeudlUkjdO3-5v0Q_DOpAxLkGPSN-aenWpoQPYIYvl_oYBCtBQNKcxWoy3Vv3SFlrDi932j8myhVj4BLtUN07jkJv0bNEZrAGBF0Fj84aJOKJYKFzft9YDWQTmbULi8G9m2E8Eyn63DOKap4l45w7WsRngOkmM7N3YdZ39vwwm5BVc6V_b8JRQzJwwUhDzMAI3hIhtSqwpNmXGx-aHxMoSn18fLd_9HHtUwjBIVlGo7AEKDw9jKLhpFPlE8--uhSDODqNmH.jpg?r=9e7"
             },
             {
                 "serie": "Kingsman",
                 "capitulo": "1h 49min",
                 "visto": 0,
                 "puesto": 3,
-                "serie_id":8
+                "serie_id": 8,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABatNe1zMoid7Am7pmugZriBM7Ifjblw2N66ZkZLUNJTHtQZZWUq19J3m8yYDM3oIqnJ7WvX5yE4UPQkouoWKM95ut3sFdjF-WqNyQq1fNQmXVK8R7QeHJai5-lY6mrEdqXoTA3i1pzwLzCj51dIoo91paKkkvbZ1K5XVkXjD6FvYNSWlApGNoZq915kTQeZxoQkXPMZSQpcQAU2uHkzb8hyYCdGG72X4kGYalolqS0cvhJt-1HDKvwf7cVeHzahfgvv5sjTnmEji_thOKK9DfjsSfPHQ_o8.webp?r=066"
             },
             {
                 "serie": "Vikingos",
                 "capitulo": "10 Temporadas",
                 "visto": 0,
                 "puesto": 4,
-                "serie_id":9
+                "serie_id": 9,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSSe-2NUqBEw-sNQ1sCTX-LcXYFJUCiBcJNbRLk8PC_yYbXxd3Sj7Yjz1qBx9u5kq5StCHlI5wLMDlmkdkrKOC8PBF_SqDiwZv0.webp?r=21a"
             },
             {
                 "serie": "Son como niños 2",
                 "capitulo": "1h 55min",
                 "visto": 0,
                 "puesto": 5,
-                "serie_id":10
+                "serie_id": 10,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZEAtk6FrN5lv1pVQtNmhpyAW_btkb8mOtMJhI6VIzj4FYZwJOa9LCLcF6kDvvgPoeGwJzDlnsKlMvINuLIC1UrjlWZd-LrFico.webp?r=6b6"
             },
             {
                 "serie": "Baki",
                 "capitulo": "4 Temporadas",
                 "visto": 0,
                 "puesto": 6,
-                "serie_id":11
+                "serie_id": 11,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXeYUgr_03NcXHzYWF46P-zqcRmJW42XxSJIDI4Faj3l0_qyWNnxyiIduq2xQqi0ffVFIzq9aUeAEkz5PQ8_KhqMg9af2HAv6dG5Kfs1aZtI8ge-fU4gLDvvzCLU_wEY-oyf.jpg?r=fef"
             },
             {
                 "serie": "Bebe Reno",
                 "capitulo": "Miniserie",
                 "visto": 0,
                 "puesto": 7,
-                "serie_id":12
+                "serie_id": 12,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe5gwaX7Y5UIkK0Zo4OS9my_VjfEgGjLvk5IFuYRO0urt2kFaSshSGZML2x5xiNBElsIeLEFw0NoNDar3qfuRqNdfuHYvGv7eNI5OHwAV5a1cTIo4qSvqn2yMWOr2kllf5qa.jpg?r=a9c"
             },
             {
-                "serie": "Rick and Morty",
+                "serie": "Un show mas",
                 "capitulo": "5 Temporadas",
                 "visto": 0,
                 "puesto": 8,
-                "serie_id":13
+                "serie_id": 13,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZnZTnsymjcVSbZhYLbRu-xwdd2zsebiiTKgG70A1bDv-l0C0ZLCTNZTu4erkCDAqXyJn8dSYV_WEXDqJJuf-uZu82q6YtCP6rc.webp?r=f7b"
             },
             {
                 "serie": "Suits",
                 "capitulo": "9 Temporadas",
                 "visto": 0,
                 "puesto": 9,
-                "serie_id":14
+                "serie_id": 14,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZozzIT6Q0pVlthNws4VrbZeIKWGfV6eWcP4YVbwVVEMzeuY2bSeoB6nKamHfWzvrJp1drx1qIEdvSbBTLUN0n3veIE2IPUG5q4.webp?r=bd5"
             },
             {
-                "serie": "La Sociedad de la Nieve",
+                "serie": "Breaking Bad",
                 "capitulo": "2h 15min",
                 "visto": 0,
                 "puesto": 10,
-                "serie_id":15
+                "serie_id": 15,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTY_oFMWa4w_MOegHro1RQFJygb7yu6ECJNjt0DIKOAEA00qkrtT2db1NM6RKMyEuhv4LPUrF96wCiAEvoSewxNHpcLSAQvrnr4.webp?r=c69"
             }
         ]
     },
     {
         "usuario": "Hermano1",
+        "recomendacion": {
+            "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRgvbnr6dA8Qs_PGmXfY13rfhn0qXF2arU2XsMfn_MyQKoCoSjiZhljxEv8MeqU-nTGzvIZSWMVEec06NDQNgssrS4RzFWDohVK8.webp?r=d69",
+            "nombre": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfchCklC2sEhgjSewdtJFzHFyLDd-3ZkysmiEOXcR0cI2f2IQdh5mMOvMDG0SY4_1yeJ9NuTf9H6JFOVbel2jWU2ND9vnu5yGIXUrL7b077FjjynIfK8e5zP2iFl1A2aXidDIgnF9J-jEqXbPtKwM4UQReihnD-xHwdZl1R2GxBTN9r0d2MOFw.webp?r=b09",
+            "descripcion": "Un adicto al trabajo obsesionado con el celular enfrenta una crisis en su matrimonio. Para no perder a su esposa, empieza una desintoxicación digital plagada de momentos cómicos.",
+            "top10puesto": "https://www.netflix.com/tudum/top10/images/top10.png"
+        },
         "img_perfil": "https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-vnl1thqrh02x7ra2.jpg",
         "user_id": 3,
         "continuar": [
             {
-                "serie": "The Witcher",
-                "capitulo": "T3 E1",
-                "visto": 35,
-                "serie_id": 1
+                "serie": "Kick ass 2",
+                "capitulo": "2h 07min",
+                "visto": 29,
+                "serie_id": 1,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV7ASL_zJvmuMx7-mue1jdwxagNLYzGJONZlCnPiLSqR41BHBJ6ZfHlRzeeyAXbtAvngLfgz6erMLAnGvtk8XViJsQSOsf9ddpw.webp?r=eed"
             },
             {
-                "serie": "Dr House",
-                "capitulo": "T6 E4",
-                "visto": 79,
-                "serie_id":2
+                "serie": "You",
+                "capitulo": "T3 E6",
+                "visto": 11,
+                "serie_id": 2,
+                "imagen":"https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb4v8F0g7szV0p6qvAEac5AfQ6MmchOxHZkzHgvbLs5BFNPvvzTWoVb6AoxL1IgqDY7VkWuKNr4efXpWdQ9jWoLKAIxNThjiHxoLITUnf1P_zSM-Yw1WNa6AQ_lQGb4z-pLc.jpg?r=622"
             },
             {
-                "serie": "Bojack Horseman",
+                "serie": "El Increible Mundo de Gumball",
                 "capitulo": "T2 E4",
                 "visto": 1,
-                "serie_id":3
+                "serie_id": 3,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbk6exlJfZ8PIyeoIGo4eMe0LTvZQi-RI8XXwCZH_-GmgNlBAu_tqsKctNkwxjnefWFEP0M1s1L9ttrEVZYWfgePGhQh6LlPxk8.webp?r=069"
             },
             {
-                "serie": "One Piece",
+                "serie": "Casados con Hijos",
                 "capitulo": "T9 E159",
                 "visto": 95,
-                "serie_id":4
+                "serie_id": 4,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABblYligWcGtMMtmvPN9fsmrMtNj8AXeIRZ6o7LhX_0ppL71mtxTQDxnFcCOZOQ1HIILcD4aeUs_C79U8lKx_GbA9mpNii3skE2E.webp?r=d8e"
             },
             {
-                "serie": "La Sociedad de la Nieve",
-                "capitulo": "Restante",
+                "serie": "8 Mile",
+                "capitulo": "2h 32min",
                 "visto": 55,
-                "serie_id":5
+                "serie_id": 5,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaViGVvc-6g-QVgw3CZtGMOD8SegDC94S2tO3nNxbniedsCpQMk9c3E4CJof3PgDkSg5DK6pZ9fYmJjwFrZJM8945qp3NRsfCoQ.webp?r=649"
             }
         ],
-        "top_10_semanal":[
+        "top_10_semanal": [
             {
                 "serie": "The Witcher",
                 "capitulo": "3 Temporadas",
                 "visto": 0,
                 "puesto": 1,
-                "serie_id":6
+                "serie_id": 6,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVpbITlDnGaL6vRFLUgkyzlOfOuukvD99oZ5o8eVXNDAzSEJqhwo812zcNSdmEfsUpe1930dnLW6qPGYMtBDzrEsKKzz-Ub3iPs_TGHHTWNC-okd2k_wnChRkXvIhS0Itmk0.jpg?r=b1f"
             },
             {
                 "serie": "The Umbrella Academy",
                 "capitulo": "5 Temporadas",
                 "visto": 0,
                 "puesto": 2,
-                "serie_id":7
+                "serie_id": 7,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVeT8LEgs_RErIkeCaBNCy5MNjl9HgeoKjVS7u3Ai3CKm5fUTsG9vKBluR63flflcaQg3Lyfpo_YHMEF1l01QPwupHsotsH4rqotQcq_6OkljOeudlUkjdO3-5v0Q_DOpAxLkGPSN-aenWpoQPYIYvl_oYBCtBQNKcxWoy3Vv3SFlrDi932j8myhVj4BLtUN07jkJv0bNEZrAGBF0Fj84aJOKJYKFzft9YDWQTmbULi8G9m2E8Eyn63DOKap4l45w7WsRngOkmM7N3YdZ39vwwm5BVc6V_b8JRQzJwwUhDzMAI3hIhtSqwpNmXGx-aHxMoSn18fLd_9HHtUwjBIVlGo7AEKDw9jKLhpFPlE8--uhSDODqNmH.jpg?r=9e7"
             },
             {
                 "serie": "Kingsman",
                 "capitulo": "1h 49min",
                 "visto": 0,
                 "puesto": 3,
-                "serie_id":8
+                "serie_id": 8,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABatNe1zMoid7Am7pmugZriBM7Ifjblw2N66ZkZLUNJTHtQZZWUq19J3m8yYDM3oIqnJ7WvX5yE4UPQkouoWKM95ut3sFdjF-WqNyQq1fNQmXVK8R7QeHJai5-lY6mrEdqXoTA3i1pzwLzCj51dIoo91paKkkvbZ1K5XVkXjD6FvYNSWlApGNoZq915kTQeZxoQkXPMZSQpcQAU2uHkzb8hyYCdGG72X4kGYalolqS0cvhJt-1HDKvwf7cVeHzahfgvv5sjTnmEji_thOKK9DfjsSfPHQ_o8.webp?r=066"
             },
             {
                 "serie": "Vikingos",
                 "capitulo": "10 Temporadas",
                 "visto": 0,
                 "puesto": 4,
-                "serie_id":9
+                "serie_id": 9,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSSe-2NUqBEw-sNQ1sCTX-LcXYFJUCiBcJNbRLk8PC_yYbXxd3Sj7Yjz1qBx9u5kq5StCHlI5wLMDlmkdkrKOC8PBF_SqDiwZv0.webp?r=21a"
             },
             {
                 "serie": "Son como niños 2",
                 "capitulo": "1h 55min",
                 "visto": 0,
                 "puesto": 5,
-                "serie_id":10
+                "serie_id": 10,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZEAtk6FrN5lv1pVQtNmhpyAW_btkb8mOtMJhI6VIzj4FYZwJOa9LCLcF6kDvvgPoeGwJzDlnsKlMvINuLIC1UrjlWZd-LrFico.webp?r=6b6"
             },
             {
                 "serie": "Baki",
                 "capitulo": "4 Temporadas",
                 "visto": 0,
                 "puesto": 6,
-                "serie_id":11
+                "serie_id": 11,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXeYUgr_03NcXHzYWF46P-zqcRmJW42XxSJIDI4Faj3l0_qyWNnxyiIduq2xQqi0ffVFIzq9aUeAEkz5PQ8_KhqMg9af2HAv6dG5Kfs1aZtI8ge-fU4gLDvvzCLU_wEY-oyf.jpg?r=fef"
             },
             {
                 "serie": "Bebe Reno",
                 "capitulo": "Miniserie",
                 "visto": 0,
                 "puesto": 7,
-                "serie_id":12
+                "serie_id": 12,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe5gwaX7Y5UIkK0Zo4OS9my_VjfEgGjLvk5IFuYRO0urt2kFaSshSGZML2x5xiNBElsIeLEFw0NoNDar3qfuRqNdfuHYvGv7eNI5OHwAV5a1cTIo4qSvqn2yMWOr2kllf5qa.jpg?r=a9c"
             },
             {
-                "serie": "Rick and Morty",
+                "serie": "Un show mas",
                 "capitulo": "5 Temporadas",
                 "visto": 0,
                 "puesto": 8,
-                "serie_id":13
+                "serie_id": 13,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZnZTnsymjcVSbZhYLbRu-xwdd2zsebiiTKgG70A1bDv-l0C0ZLCTNZTu4erkCDAqXyJn8dSYV_WEXDqJJuf-uZu82q6YtCP6rc.webp?r=f7b"
             },
             {
                 "serie": "Suits",
                 "capitulo": "9 Temporadas",
                 "visto": 0,
                 "puesto": 9,
-                "serie_id":14
+                "serie_id": 14,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZozzIT6Q0pVlthNws4VrbZeIKWGfV6eWcP4YVbwVVEMzeuY2bSeoB6nKamHfWzvrJp1drx1qIEdvSbBTLUN0n3veIE2IPUG5q4.webp?r=bd5"
             },
             {
-                "serie": "La Sociedad de la Nieve",
+                "serie": "Breaking Bad",
                 "capitulo": "2h 15min",
                 "visto": 0,
                 "puesto": 10,
-                "serie_id":15
+                "serie_id": 15,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTY_oFMWa4w_MOegHro1RQFJygb7yu6ECJNjt0DIKOAEA00qkrtT2db1NM6RKMyEuhv4LPUrF96wCiAEvoSewxNHpcLSAQvrnr4.webp?r=c69"
             }
         ]
     },
     {
         "usuario": "Hermano2",
+        "recomendacion": {
+            "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRgvbnr6dA8Qs_PGmXfY13rfhn0qXF2arU2XsMfn_MyQKoCoSjiZhljxEv8MeqU-nTGzvIZSWMVEec06NDQNgssrS4RzFWDohVK8.webp?r=d69",
+            "nombre": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfchCklC2sEhgjSewdtJFzHFyLDd-3ZkysmiEOXcR0cI2f2IQdh5mMOvMDG0SY4_1yeJ9NuTf9H6JFOVbel2jWU2ND9vnu5yGIXUrL7b077FjjynIfK8e5zP2iFl1A2aXidDIgnF9J-jEqXbPtKwM4UQReihnD-xHwdZl1R2GxBTN9r0d2MOFw.webp?r=b09",
+            "descripcion": "Un adicto al trabajo obsesionado con el celular enfrenta una crisis en su matrimonio. Para no perder a su esposa, empieza una desintoxicación digital plagada de momentos cómicos.",
+            "top10puesto": "https://www.netflix.com/tudum/top10/images/top10.png"
+        },
         "img_perfil": "https://avatars.githubusercontent.com/u/48315089?v=4",
         "user_id": 4,
         "continuar": [
@@ -335,108 +404,129 @@
                 "serie": "The Witcher",
                 "capitulo": "T3 E1",
                 "visto": 35,
-                "serie_id": 1
+                "serie_id": 1,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVpbITlDnGaL6vRFLUgkyzlOfOuukvD99oZ5o8eVXNDAzSEJqhwo812zcNSdmEfsUpe1930dnLW6qPGYMtBDzrEsKKzz-Ub3iPs_TGHHTWNC-okd2k_wnChRkXvIhS0Itmk0.jpg?r=b1f"
             },
             {
                 "serie": "Dr House",
                 "capitulo": "T6 E4",
                 "visto": 79,
-                "serie_id":2
+                "serie_id": 2,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd1aJaPNuX9Jhjcj-o_wGRWegAMyAhzotyTua0Vai3nuLnoyJC1UZxLsnQdAV_ccQ8cIiaAnC84FH8a4awgr3bwxsbouXEO1PWw.webp?r=2cb"
             },
             {
                 "serie": "Bojack Horseman",
                 "capitulo": "T2 E4",
                 "visto": 1,
-                "serie_id":3
+                "serie_id": 3,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaPXz7v2NuyiSemal6D36nkcyn9nORgB7bOfyWtUz1lUQgUExwnWYbGRFeACqn5vjUibRnuZGI4MKcdUetzZrlQPizurNnbkWLA1-hmz2CyXsE23F4x1melfVNXp5lzUoKSp.jpg?r=37e"
             },
             {
                 "serie": "One Piece",
                 "capitulo": "T9 E159",
                 "visto": 95,
-                "serie_id":4
+                "serie_id": 4,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZhSvREqYV5gw6FCEHnVOEKtyjOpJNYmAp_GhPffYMoHcDLCi9yq3l8xlm1OB91eMPZHaYuz7zHdk_GtUJbBQ5XiD4Pa1_IPgx0ooiwruuASDIWsZyjyMB3z9LhK2CINy_CaqRcu62biObh9IQSjHZhBVmZDuGnoS1bXRuzdd2FYBQb-5iF0pGTCzbc03GVt3anOVd1Os6qY-T6kEBuZ-WtR9TAuj_Gl1mmXf0NKjxhEs__Que_1hauAk4F0fwi3VBIpWX9lSYLadTxBgWCwcch82cF3YEtQ8NB94OuHqJLCqcIQsk6CzujqjtwJGEF1ssqYeg1HVOxopli7ObZqWV5uny0pazlhYKA0kF_xEj1RffmJAkMK53aqopuSKdtvogP4nLKU2KpZjQtmDwhtVpeVuxGjrn3Vjtq4tnHidBZWckDY.webp?r=79f"
             },
             {
                 "serie": "La Sociedad de la Nieve",
                 "capitulo": "Restante",
                 "visto": 55,
-                "serie_id":5
+                "serie_id": 5,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUHRQw5V7O4tQs40UzIGwfvUWmNHtWWpqa42PvQp4IlR97uy2mUE1j2yHm01PTI0tdY7at0PZAU4bzlV9u1tlaLa9EnyPpTXV8lMPtNMsSdQl-HOtsVZf58_eX4azZWaz7Ld.jpg?r=376"
             }
         ],
-        "top_10_semanal":[
+        "top_10_semanal": [
             {
                 "serie": "The Witcher",
                 "capitulo": "3 Temporadas",
                 "visto": 0,
                 "puesto": 1,
-                "serie_id":6
+                "serie_id": 6,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVpbITlDnGaL6vRFLUgkyzlOfOuukvD99oZ5o8eVXNDAzSEJqhwo812zcNSdmEfsUpe1930dnLW6qPGYMtBDzrEsKKzz-Ub3iPs_TGHHTWNC-okd2k_wnChRkXvIhS0Itmk0.jpg?r=b1f"
             },
             {
                 "serie": "The Umbrella Academy",
                 "capitulo": "5 Temporadas",
                 "visto": 0,
                 "puesto": 2,
-                "serie_id":7
+                "serie_id": 7,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVeT8LEgs_RErIkeCaBNCy5MNjl9HgeoKjVS7u3Ai3CKm5fUTsG9vKBluR63flflcaQg3Lyfpo_YHMEF1l01QPwupHsotsH4rqotQcq_6OkljOeudlUkjdO3-5v0Q_DOpAxLkGPSN-aenWpoQPYIYvl_oYBCtBQNKcxWoy3Vv3SFlrDi932j8myhVj4BLtUN07jkJv0bNEZrAGBF0Fj84aJOKJYKFzft9YDWQTmbULi8G9m2E8Eyn63DOKap4l45w7WsRngOkmM7N3YdZ39vwwm5BVc6V_b8JRQzJwwUhDzMAI3hIhtSqwpNmXGx-aHxMoSn18fLd_9HHtUwjBIVlGo7AEKDw9jKLhpFPlE8--uhSDODqNmH.jpg?r=9e7"
             },
             {
                 "serie": "Kingsman",
                 "capitulo": "1h 49min",
                 "visto": 0,
                 "puesto": 3,
-                "serie_id":8
+                "serie_id": 8,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABatNe1zMoid7Am7pmugZriBM7Ifjblw2N66ZkZLUNJTHtQZZWUq19J3m8yYDM3oIqnJ7WvX5yE4UPQkouoWKM95ut3sFdjF-WqNyQq1fNQmXVK8R7QeHJai5-lY6mrEdqXoTA3i1pzwLzCj51dIoo91paKkkvbZ1K5XVkXjD6FvYNSWlApGNoZq915kTQeZxoQkXPMZSQpcQAU2uHkzb8hyYCdGG72X4kGYalolqS0cvhJt-1HDKvwf7cVeHzahfgvv5sjTnmEji_thOKK9DfjsSfPHQ_o8.webp?r=066"
             },
             {
                 "serie": "Vikingos",
                 "capitulo": "10 Temporadas",
                 "visto": 0,
                 "puesto": 4,
-                "serie_id":9
+                "serie_id": 9,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSSe-2NUqBEw-sNQ1sCTX-LcXYFJUCiBcJNbRLk8PC_yYbXxd3Sj7Yjz1qBx9u5kq5StCHlI5wLMDlmkdkrKOC8PBF_SqDiwZv0.webp?r=21a"
             },
             {
                 "serie": "Son como niños 2",
                 "capitulo": "1h 55min",
                 "visto": 0,
                 "puesto": 5,
-                "serie_id":10
+                "serie_id": 10,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZEAtk6FrN5lv1pVQtNmhpyAW_btkb8mOtMJhI6VIzj4FYZwJOa9LCLcF6kDvvgPoeGwJzDlnsKlMvINuLIC1UrjlWZd-LrFico.webp?r=6b6"
             },
             {
                 "serie": "Baki",
                 "capitulo": "4 Temporadas",
                 "visto": 0,
                 "puesto": 6,
-                "serie_id":11
+                "serie_id": 11,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXeYUgr_03NcXHzYWF46P-zqcRmJW42XxSJIDI4Faj3l0_qyWNnxyiIduq2xQqi0ffVFIzq9aUeAEkz5PQ8_KhqMg9af2HAv6dG5Kfs1aZtI8ge-fU4gLDvvzCLU_wEY-oyf.jpg?r=fef"
             },
             {
                 "serie": "Bebe Reno",
                 "capitulo": "Miniserie",
                 "visto": 0,
                 "puesto": 7,
-                "serie_id":12
+                "serie_id": 12,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe5gwaX7Y5UIkK0Zo4OS9my_VjfEgGjLvk5IFuYRO0urt2kFaSshSGZML2x5xiNBElsIeLEFw0NoNDar3qfuRqNdfuHYvGv7eNI5OHwAV5a1cTIo4qSvqn2yMWOr2kllf5qa.jpg?r=a9c"
             },
             {
-                "serie": "Rick and Morty",
+                "serie": "Un show mas",
                 "capitulo": "5 Temporadas",
                 "visto": 0,
                 "puesto": 8,
-                "serie_id":13
+                "serie_id": 13,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZnZTnsymjcVSbZhYLbRu-xwdd2zsebiiTKgG70A1bDv-l0C0ZLCTNZTu4erkCDAqXyJn8dSYV_WEXDqJJuf-uZu82q6YtCP6rc.webp?r=f7b"
             },
             {
                 "serie": "Suits",
                 "capitulo": "9 Temporadas",
                 "visto": 0,
                 "puesto": 9,
-                "serie_id":14
+                "serie_id": 14,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZozzIT6Q0pVlthNws4VrbZeIKWGfV6eWcP4YVbwVVEMzeuY2bSeoB6nKamHfWzvrJp1drx1qIEdvSbBTLUN0n3veIE2IPUG5q4.webp?r=bd5"
             },
             {
-                "serie": "La Sociedad de la Nieve",
+                "serie": "Breaking Bad",
                 "capitulo": "2h 15min",
                 "visto": 0,
                 "puesto": 10,
-                "serie_id":15
+                "serie_id": 15,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTY_oFMWa4w_MOegHro1RQFJygb7yu6ECJNjt0DIKOAEA00qkrtT2db1NM6RKMyEuhv4LPUrF96wCiAEvoSewxNHpcLSAQvrnr4.webp?r=c69"
             }
         ]
     },
     {
         "usuario": "Niños",
+        "recomendacion": {
+            "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRgvbnr6dA8Qs_PGmXfY13rfhn0qXF2arU2XsMfn_MyQKoCoSjiZhljxEv8MeqU-nTGzvIZSWMVEec06NDQNgssrS4RzFWDohVK8.webp?r=d69",
+            "nombre": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfchCklC2sEhgjSewdtJFzHFyLDd-3ZkysmiEOXcR0cI2f2IQdh5mMOvMDG0SY4_1yeJ9NuTf9H6JFOVbel2jWU2ND9vnu5yGIXUrL7b077FjjynIfK8e5zP2iFl1A2aXidDIgnF9J-jEqXbPtKwM4UQReihnD-xHwdZl1R2GxBTN9r0d2MOFw.webp?r=b09",
+            "descripcion": "Un adicto al trabajo obsesionado con el celular enfrenta una crisis en su matrimonio. Para no perder a su esposa, empieza una desintoxicación digital plagada de momentos cómicos.",
+            "top10puesto": "https://www.netflix.com/tudum/top10/images/top10.png"
+        },
         "img_perfil": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/vN7bi_My87NPKvsBoib006Llxzg/AAAABQ2L2FczTt0lom-DU1nnFyFd_7w5xD0i3yzly2R0qQG3Qn7iNHWv-Gsa-8WHghCLeP5MyGhTsNOspcwoYAqR5x5VwuB972e7PFO-.png?r=25d",
         "user_id": 5,
         "continuar": [
@@ -444,103 +534,118 @@
                 "serie": "The Witcher",
                 "capitulo": "T3 E1",
                 "visto": 35,
-                "serie_id": 1
+                "serie_id": 1,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVpbITlDnGaL6vRFLUgkyzlOfOuukvD99oZ5o8eVXNDAzSEJqhwo812zcNSdmEfsUpe1930dnLW6qPGYMtBDzrEsKKzz-Ub3iPs_TGHHTWNC-okd2k_wnChRkXvIhS0Itmk0.jpg?r=b1f"
             },
             {
                 "serie": "Dr House",
                 "capitulo": "T6 E4",
                 "visto": 79,
-                "serie_id":2
+                "serie_id": 2,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd1aJaPNuX9Jhjcj-o_wGRWegAMyAhzotyTua0Vai3nuLnoyJC1UZxLsnQdAV_ccQ8cIiaAnC84FH8a4awgr3bwxsbouXEO1PWw.webp?r=2cb"
             },
             {
                 "serie": "Bojack Horseman",
                 "capitulo": "T2 E4",
                 "visto": 1,
-                "serie_id":3
+                "serie_id": 3,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaPXz7v2NuyiSemal6D36nkcyn9nORgB7bOfyWtUz1lUQgUExwnWYbGRFeACqn5vjUibRnuZGI4MKcdUetzZrlQPizurNnbkWLA1-hmz2CyXsE23F4x1melfVNXp5lzUoKSp.jpg?r=37e"
             },
             {
                 "serie": "One Piece",
                 "capitulo": "T9 E159",
                 "visto": 95,
-                "serie_id":4
+                "serie_id": 4,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZhSvREqYV5gw6FCEHnVOEKtyjOpJNYmAp_GhPffYMoHcDLCi9yq3l8xlm1OB91eMPZHaYuz7zHdk_GtUJbBQ5XiD4Pa1_IPgx0ooiwruuASDIWsZyjyMB3z9LhK2CINy_CaqRcu62biObh9IQSjHZhBVmZDuGnoS1bXRuzdd2FYBQb-5iF0pGTCzbc03GVt3anOVd1Os6qY-T6kEBuZ-WtR9TAuj_Gl1mmXf0NKjxhEs__Que_1hauAk4F0fwi3VBIpWX9lSYLadTxBgWCwcch82cF3YEtQ8NB94OuHqJLCqcIQsk6CzujqjtwJGEF1ssqYeg1HVOxopli7ObZqWV5uny0pazlhYKA0kF_xEj1RffmJAkMK53aqopuSKdtvogP4nLKU2KpZjQtmDwhtVpeVuxGjrn3Vjtq4tnHidBZWckDY.webp?r=79f"
             },
             {
                 "serie": "La Sociedad de la Nieve",
                 "capitulo": "Restante",
                 "visto": 55,
-                "serie_id":5
+                "serie_id": 5,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUHRQw5V7O4tQs40UzIGwfvUWmNHtWWpqa42PvQp4IlR97uy2mUE1j2yHm01PTI0tdY7at0PZAU4bzlV9u1tlaLa9EnyPpTXV8lMPtNMsSdQl-HOtsVZf58_eX4azZWaz7Ld.jpg?r=376"
             }
         ],
-        "top_10_semanal":[
+        "top_10_semanal": [
             {
                 "serie": "The Witcher",
                 "capitulo": "3 Temporadas",
                 "visto": 0,
                 "puesto": 1,
-                "serie_id":6
+                "serie_id": 6,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVpbITlDnGaL6vRFLUgkyzlOfOuukvD99oZ5o8eVXNDAzSEJqhwo812zcNSdmEfsUpe1930dnLW6qPGYMtBDzrEsKKzz-Ub3iPs_TGHHTWNC-okd2k_wnChRkXvIhS0Itmk0.jpg?r=b1f"
             },
             {
                 "serie": "The Umbrella Academy",
                 "capitulo": "5 Temporadas",
                 "visto": 0,
                 "puesto": 2,
-                "serie_id":7
+                "serie_id": 7,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABVeT8LEgs_RErIkeCaBNCy5MNjl9HgeoKjVS7u3Ai3CKm5fUTsG9vKBluR63flflcaQg3Lyfpo_YHMEF1l01QPwupHsotsH4rqotQcq_6OkljOeudlUkjdO3-5v0Q_DOpAxLkGPSN-aenWpoQPYIYvl_oYBCtBQNKcxWoy3Vv3SFlrDi932j8myhVj4BLtUN07jkJv0bNEZrAGBF0Fj84aJOKJYKFzft9YDWQTmbULi8G9m2E8Eyn63DOKap4l45w7WsRngOkmM7N3YdZ39vwwm5BVc6V_b8JRQzJwwUhDzMAI3hIhtSqwpNmXGx-aHxMoSn18fLd_9HHtUwjBIVlGo7AEKDw9jKLhpFPlE8--uhSDODqNmH.jpg?r=9e7"
             },
             {
                 "serie": "Kingsman",
                 "capitulo": "1h 49min",
                 "visto": 0,
                 "puesto": 3,
-                "serie_id":8
+                "serie_id": 8,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABatNe1zMoid7Am7pmugZriBM7Ifjblw2N66ZkZLUNJTHtQZZWUq19J3m8yYDM3oIqnJ7WvX5yE4UPQkouoWKM95ut3sFdjF-WqNyQq1fNQmXVK8R7QeHJai5-lY6mrEdqXoTA3i1pzwLzCj51dIoo91paKkkvbZ1K5XVkXjD6FvYNSWlApGNoZq915kTQeZxoQkXPMZSQpcQAU2uHkzb8hyYCdGG72X4kGYalolqS0cvhJt-1HDKvwf7cVeHzahfgvv5sjTnmEji_thOKK9DfjsSfPHQ_o8.webp?r=066"
             },
             {
                 "serie": "Vikingos",
                 "capitulo": "10 Temporadas",
                 "visto": 0,
                 "puesto": 4,
-                "serie_id":9
+                "serie_id": 9,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSSe-2NUqBEw-sNQ1sCTX-LcXYFJUCiBcJNbRLk8PC_yYbXxd3Sj7Yjz1qBx9u5kq5StCHlI5wLMDlmkdkrKOC8PBF_SqDiwZv0.webp?r=21a"
             },
             {
                 "serie": "Son como niños 2",
                 "capitulo": "1h 55min",
                 "visto": 0,
                 "puesto": 5,
-                "serie_id":10
+                "serie_id": 10,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZEAtk6FrN5lv1pVQtNmhpyAW_btkb8mOtMJhI6VIzj4FYZwJOa9LCLcF6kDvvgPoeGwJzDlnsKlMvINuLIC1UrjlWZd-LrFico.webp?r=6b6"
             },
             {
                 "serie": "Baki",
                 "capitulo": "4 Temporadas",
                 "visto": 0,
                 "puesto": 6,
-                "serie_id":11
+                "serie_id": 11,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXeYUgr_03NcXHzYWF46P-zqcRmJW42XxSJIDI4Faj3l0_qyWNnxyiIduq2xQqi0ffVFIzq9aUeAEkz5PQ8_KhqMg9af2HAv6dG5Kfs1aZtI8ge-fU4gLDvvzCLU_wEY-oyf.jpg?r=fef"
             },
             {
                 "serie": "Bebe Reno",
                 "capitulo": "Miniserie",
                 "visto": 0,
                 "puesto": 7,
-                "serie_id":12
+                "serie_id": 12,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe5gwaX7Y5UIkK0Zo4OS9my_VjfEgGjLvk5IFuYRO0urt2kFaSshSGZML2x5xiNBElsIeLEFw0NoNDar3qfuRqNdfuHYvGv7eNI5OHwAV5a1cTIo4qSvqn2yMWOr2kllf5qa.jpg?r=a9c"
             },
             {
-                "serie": "Rick and Morty",
+                "serie": "Un show mas",
                 "capitulo": "5 Temporadas",
                 "visto": 0,
                 "puesto": 8,
-                "serie_id":13
+                "serie_id": 13,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZnZTnsymjcVSbZhYLbRu-xwdd2zsebiiTKgG70A1bDv-l0C0ZLCTNZTu4erkCDAqXyJn8dSYV_WEXDqJJuf-uZu82q6YtCP6rc.webp?r=f7b"
             },
             {
                 "serie": "Suits",
                 "capitulo": "9 Temporadas",
                 "visto": 0,
                 "puesto": 9,
-                "serie_id":14
+                "serie_id": 14,
+                "imagen":"https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZozzIT6Q0pVlthNws4VrbZeIKWGfV6eWcP4YVbwVVEMzeuY2bSeoB6nKamHfWzvrJp1drx1qIEdvSbBTLUN0n3veIE2IPUG5q4.webp?r=bd5"
             },
             {
-                "serie": "La Sociedad de la Nieve",
+                "serie": "Breaking Bad",
                 "capitulo": "2h 15min",
                 "visto": 0,
                 "puesto": 10,
-                "serie_id":15
+                "serie_id": 15,
+                "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTY_oFMWa4w_MOegHro1RQFJygb7yu6ECJNjt0DIKOAEA00qkrtT2db1NM6RKMyEuhv4LPUrF96wCiAEvoSewxNHpcLSAQvrnr4.webp?r=c69"
             }
         ]
     }

@@ -5,3 +5,12 @@ export{
     HomeScreen,
     UserScreen
 }
+
+export const validarVista = (visto) =>{
+    if(visto == 0){
+        return 'none'
+    }
+    else{
+        return ''
+    }
+}
