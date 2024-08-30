@@ -15,19 +15,30 @@ const HomeScreen = () => {
     const [continuarViendoList, setContinuarViendoList] = useState()
     const [top10Series, setTop10Series] = useState()
     const [recomendacion, setRecomendacion] = useState()
+    const [netflixOnly, setNetflixOnly] = useState()
+    const [isLoading, setIsLoading] = useState(true)
     const {userId} = useParams()
     
     /* console.log(userId) */
 
     useEffect(
         () => {
-            obtenerUser().then((usuario) =>{
-                const usuarios = usuario
-                setUserInfo(usuarios)
-                setContinuarViendoList(usuarios[userId - 1].continuar)
-                setTop10Series(usuarios[userId - 1].top_10_semanal)
-                setRecomendacion(usuarios[userId - 1].recomendacion)
-            })
+            setTimeout(
+                ()=>{
+                    obtenerUser().then(
+                        (usuario) =>{
+                            const usuarios = usuario
+                            setUserInfo(usuarios)
+                            setContinuarViendoList(usuarios[userId - 1].continuar)
+                            setTop10Series(usuarios[userId - 1].top_10_semanal)
+                            setRecomendacion(usuarios[userId - 1].recomendacion)
+                            setNetflixOnly(usuarios[userId - 1].netflix_only)
+                            setIsLoading(false)
+                        }
+                    )
+                },
+                200
+            )
         }, 
     [])
 
@@ -39,6 +50,10 @@ const HomeScreen = () => {
 
     return (
         <>
+        {
+        isLoading
+        ?<div></div>
+        :<>
             <header className='home-header'>
                 <img src="https://seeklogo.com/images/N/netflix-logo-6A5D357DF8-seeklogo.com.png" alt="" className='netflix-icon-home'/>
                 <nav className='home-header-nav'>
@@ -54,7 +69,7 @@ const HomeScreen = () => {
                 <img src="/Assets/Images/bckg img.webp" className='recomendacion-img' />
                 <div className='recomendacion-box'>
                     <div className='title-box'>
-                        <img src={recomendacion.nombre} className='reco-title'></img>
+                        <img src={recomendacion.name} className='reco-title'></img>
                     </div>
                     <div className='reco-specs-box'>
                         <div className='specs-top10'>
@@ -68,7 +83,6 @@ const HomeScreen = () => {
                         </div>
                     </div>
                 </div>
-                {/* <video className='movie-vid' src="/Assets/Video/video.mp4" type='video/mp4' autoPlay controls muted></video> */}
                 </section>
                 <section className='series-sliders'>
                     <h3 className='home-text-preset slider-title'>Continuar viendo</h3>
@@ -101,10 +115,28 @@ const HomeScreen = () => {
                                     </div>
                                 )
                             })
-                        }
+                    }
+                    </nav>
+                    <h3 className='home-text-preset slider-title'>Solo en netflix</h3>
+                    <nav className="series-nav">
+                    {
+                            netflixOnly && netflixOnly.map(item =>{
+                                const {serie, capitulo, visto, serie_id, imagen} = item
+                                return(
+                                    <div className="serie-box" key={serie_id}>
+                                        <img src={imagen} alt={serie} className='serie-img' />
+                                        <div className='view-bar' style={{display: validarVista(visto)}} >
+                                            <div className='view-progress' style={{width: visto + '%'}}></div>
+                                        </div>
+                                    </div>
+                                )
+                            })
+                    }
                     </nav>
                 </section>
             </main>
+        </>
+        }
         </>
     )
 }

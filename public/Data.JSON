@@ -3,7 +3,7 @@
         "usuario": "Juan",
         "recomendacion": {
             "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRgvbnr6dA8Qs_PGmXfY13rfhn0qXF2arU2XsMfn_MyQKoCoSjiZhljxEv8MeqU-nTGzvIZSWMVEec06NDQNgssrS4RzFWDohVK8.webp?r=d69",
-            "nombre": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfchCklC2sEhgjSewdtJFzHFyLDd-3ZkysmiEOXcR0cI2f2IQdh5mMOvMDG0SY4_1yeJ9NuTf9H6JFOVbel2jWU2ND9vnu5yGIXUrL7b077FjjynIfK8e5zP2iFl1A2aXidDIgnF9J-jEqXbPtKwM4UQReihnD-xHwdZl1R2GxBTN9r0d2MOFw.webp?r=b09",
+            "name": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfchCklC2sEhgjSewdtJFzHFyLDd-3ZkysmiEOXcR0cI2f2IQdh5mMOvMDG0SY4_1yeJ9NuTf9H6JFOVbel2jWU2ND9vnu5yGIXUrL7b077FjjynIfK8e5zP2iFl1A2aXidDIgnF9J-jEqXbPtKwM4UQReihnD-xHwdZl1R2GxBTN9r0d2MOFw.webp?r=b09",
             "descripcion": "Un adicto al trabajo obsesionado con el celular enfrenta una crisis en su matrimonio. Para no perder a su esposa, empieza una desintoxicación digital plagada de momentos cómicos.",
             "top10puesto": "https://www.netflix.com/tudum/top10/images/top10.png"
         },
@@ -127,13 +127,85 @@
                 "serie_id": 15,
                 "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTY_oFMWa4w_MOegHro1RQFJygb7yu6ECJNjt0DIKOAEA00qkrtT2db1NM6RKMyEuhv4LPUrF96wCiAEvoSewxNHpcLSAQvrnr4.webp?r=c69"
             }
+        ],
+        "netflix_only": [
+            {
+                "serie": "Stranger Things",
+                "capitulo": "5 Temporadas",
+                "visto": 0,
+                "serie_id": 16,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeOcksWOWxGcTzttFbFH1xw_nBhgq0hjZQapKbz3YHyOIkhZpUkRUeoTXKUF6bVHsb_DOqBD6-7IHCefVwUsvGesEmdvigC6Utm90MnsTktIAo9EKNelP_43K9wjvSDSs49y.jpg?r=07c"
+            },
+            {
+                "serie": "Cadaveres",
+                "capitulo": "Miniserie",
+                "visto": 0,
+                "serie_id": 17,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYygc-c_oWTXktaOTsqh-cWrmUizpWOu1arnBDaRq25EIUUfkHIlvW6Woo5Dbv1Ocd4rL9vLe9RzT6dh1SPYnPDLQP1yTWa6jgEb1el-7S_5nCYzB8fdUOF6rTr6nDMnarx8.jpg?r=8c4"
+            },
+            {
+                "serie": "El problema de los 3 cuerpos",
+                "capitulo": "1 Temporada",
+                "visto": 0,
+                "serie_id": 18,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY2SpYSW8Bjyf6_a5bzwmIG29d1zRRpHUEuWfHJK2U42-pea7hCFyAHSLv9LIRGSTGZ9mtQvGB_HsGGx0UpHh0vb2a7iEE-waQ7Qh5HL0Qil2H3GPMdI1pvIjnt9mbJnifyj.jpg?r=bac"
+            },
+            {
+                "serie": "Mindhunter",
+                "capitulo": "2 Temporadas",
+                "visto": 0,
+                "serie_id": 19,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc6afS5DUsbIu_pJe1EcQhezHpOh50GA6JACDSB2cJxijNG_l2loE4wQjbunfbbudjDiJkXEGHnS1EUG6bf6iiJ4wYiQdu029Ag0qrHMHNixOvudOalh3cbaERo5IjesCXxq.jpg?r=51c"
+            },
+            {
+                "serie": "Lucifer",
+                "capitulo": "5 temporadas",
+                "visto": 0,
+                "serie_id": 20,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb5yy1B5Edcr4shYbptYX7tqKp6zUADMYcT68nvjpdZC0gcS1nLdLGd1SigHjzyHw-bJNtAzhkdmG8O_E7ntkpu4lFnzvJkR5XkMUODGtdNCfYgS8gL-TEe4uZyUht4Mw8g_.jpg?r=929"
+            },
+            {
+                "serie": "Ginny y Georgia",
+                "capitulo": "2 Temporadas",
+                "visto": 0,
+                "serie_id": 21,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf1AsoscBvxxeHw-wmIPhGwC2NdUFtTPj-mABMK7IXxWlt0HGBuaj0ksORuZY7oYWVZfZAjO7lC0O7p8GmcsxTqz7WujEB9rLaDk5wE_KFKZmz2XUW4ULBUaF4MeCkCYsrqt.jpg?r=9f2"
+            },
+            {
+                "serie": "Emily en Paris",
+                "capitulo": "Miniserie",
+                "visto": 0,
+                "serie_id": 22,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQPonxHXzIsCGlTSV_50qCwhOf274cjqFBV80SaliMOqiO3wuCzCkQcyHstXwIXlrOiLPKAuXU_2bvaqWKalquju8G9PtqiEAqTqDJ9pX-q2DwuskfWxxjjpc64kET-ThLrJ4wgtf7rxIrmA7qcw-abjA6jvyGQ-Ahq5SQeYevlZkLo4WKEP7HkFbWs4ypT5hR2T9Ga6yf9Xc3UT2JZu8WU7K6aIfkD_or3769IcuQIdCSKg8JsqFwuegFGyzvT8TMnEicCGqiX1_K2rjpzYss-b3tn1o-S1nVTHMxe_64-PZ4QOuOYDY51J4PT4fgZ1bMRNiKTUnUkFAsjIHcVVmmlpO5zDxw4H8KAJ8pgqcbnuzDozIMs0.jpg?r=ed6"
+            },
+            {
+                "serie": "Un asunto familiar",
+                "capitulo": "2h 0min",
+                "visto": 0,
+                "serie_id": 23,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWwr52XaLqKvfd2LqT2bb0QQbXUtjWxIp52PEX9_3Is-cwntoyOJDnYDhpoyVkzBXUhBpHvqX4IXoXr0W8SuhuEiwfREYSYVCXwfcNKkoA4OP4l6zVuSK62UD8mBNn2Xj22w.jpg?r=f3c"
+            },
+            {
+                "serie": "Arcane",
+                "capitulo": "1 Temporada",
+                "visto": 0,
+                "serie_id": 24,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYDdZSXCHfhWlQdaoa6mDhFCpB23RvxQa_WPKWG-HRSnBgZgotojmDTgJQJoiEpk5hQ0FrfN-WGY9UkdlSgJSMuxXW5lf624Z_uE5PqBBh4MQ3-pkEafGd9IjlhxtEVZWSK4.jpg?r=367"
+            },
+            {
+                "serie": "Glitch",
+                "capitulo": "2 Temporadas",
+                "visto": 0,
+                "serie_id": 25,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABazYXdaQ-NeJoqm65_y1G1KZiK2kCitnZq42pgrDVtEQMQa9CCy3p10pdV7Xi8gjvljfLYJmDizYkOl80mijzzHusEpAiLki0fRFxW1fD-eEHtDTtEjhKmWNzX3tA0-3CmiK.jpg?r=397"
+            }
         ]
     },
     {
         "usuario": "Pepe",  
         "recomendacion": {
             "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRgvbnr6dA8Qs_PGmXfY13rfhn0qXF2arU2XsMfn_MyQKoCoSjiZhljxEv8MeqU-nTGzvIZSWMVEec06NDQNgssrS4RzFWDohVK8.webp?r=d69",
-            "nombre": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfchCklC2sEhgjSewdtJFzHFyLDd-3ZkysmiEOXcR0cI2f2IQdh5mMOvMDG0SY4_1yeJ9NuTf9H6JFOVbel2jWU2ND9vnu5yGIXUrL7b077FjjynIfK8e5zP2iFl1A2aXidDIgnF9J-jEqXbPtKwM4UQReihnD-xHwdZl1R2GxBTN9r0d2MOFw.webp?r=b09",
+            "name": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfchCklC2sEhgjSewdtJFzHFyLDd-3ZkysmiEOXcR0cI2f2IQdh5mMOvMDG0SY4_1yeJ9NuTf9H6JFOVbel2jWU2ND9vnu5yGIXUrL7b077FjjynIfK8e5zP2iFl1A2aXidDIgnF9J-jEqXbPtKwM4UQReihnD-xHwdZl1R2GxBTN9r0d2MOFw.webp?r=b09",
             "descripcion": "Un adicto al trabajo obsesionado con el celular enfrenta una crisis en su matrimonio. Para no perder a su esposa, empieza una desintoxicación digital plagada de momentos cómicos.",
             "top10puesto": "https://www.netflix.com/tudum/top10/images/top10.png"
         },
@@ -257,13 +329,85 @@
                 "serie_id": 15,
                 "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTY_oFMWa4w_MOegHro1RQFJygb7yu6ECJNjt0DIKOAEA00qkrtT2db1NM6RKMyEuhv4LPUrF96wCiAEvoSewxNHpcLSAQvrnr4.webp?r=c69"
             }
+        ],
+        "netflix_only": [
+            {
+                "serie": "Stranger Things",
+                "capitulo": "5 Temporadas",
+                "visto": 0,
+                "serie_id": 16,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeOcksWOWxGcTzttFbFH1xw_nBhgq0hjZQapKbz3YHyOIkhZpUkRUeoTXKUF6bVHsb_DOqBD6-7IHCefVwUsvGesEmdvigC6Utm90MnsTktIAo9EKNelP_43K9wjvSDSs49y.jpg?r=07c"
+            },
+            {
+                "serie": "Cadaveres",
+                "capitulo": "Miniserie",
+                "visto": 0,
+                "serie_id": 17,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYygc-c_oWTXktaOTsqh-cWrmUizpWOu1arnBDaRq25EIUUfkHIlvW6Woo5Dbv1Ocd4rL9vLe9RzT6dh1SPYnPDLQP1yTWa6jgEb1el-7S_5nCYzB8fdUOF6rTr6nDMnarx8.jpg?r=8c4"
+            },
+            {
+                "serie": "El problema de los 3 cuerpos",
+                "capitulo": "1 Temporada",
+                "visto": 0,
+                "serie_id": 18,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY2SpYSW8Bjyf6_a5bzwmIG29d1zRRpHUEuWfHJK2U42-pea7hCFyAHSLv9LIRGSTGZ9mtQvGB_HsGGx0UpHh0vb2a7iEE-waQ7Qh5HL0Qil2H3GPMdI1pvIjnt9mbJnifyj.jpg?r=bac"
+            },
+            {
+                "serie": "Mindhunter",
+                "capitulo": "2 Temporadas",
+                "visto": 0,
+                "serie_id": 19,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc6afS5DUsbIu_pJe1EcQhezHpOh50GA6JACDSB2cJxijNG_l2loE4wQjbunfbbudjDiJkXEGHnS1EUG6bf6iiJ4wYiQdu029Ag0qrHMHNixOvudOalh3cbaERo5IjesCXxq.jpg?r=51c"
+            },
+            {
+                "serie": "Lucifer",
+                "capitulo": "5 temporadas",
+                "visto": 0,
+                "serie_id": 20,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb5yy1B5Edcr4shYbptYX7tqKp6zUADMYcT68nvjpdZC0gcS1nLdLGd1SigHjzyHw-bJNtAzhkdmG8O_E7ntkpu4lFnzvJkR5XkMUODGtdNCfYgS8gL-TEe4uZyUht4Mw8g_.jpg?r=929"
+            },
+            {
+                "serie": "Ginny y Georgia",
+                "capitulo": "2 Temporadas",
+                "visto": 0,
+                "serie_id": 21,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf1AsoscBvxxeHw-wmIPhGwC2NdUFtTPj-mABMK7IXxWlt0HGBuaj0ksORuZY7oYWVZfZAjO7lC0O7p8GmcsxTqz7WujEB9rLaDk5wE_KFKZmz2XUW4ULBUaF4MeCkCYsrqt.jpg?r=9f2"
+            },
+            {
+                "serie": "Emily en Paris",
+                "capitulo": "Miniserie",
+                "visto": 0,
+                "serie_id": 22,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQPonxHXzIsCGlTSV_50qCwhOf274cjqFBV80SaliMOqiO3wuCzCkQcyHstXwIXlrOiLPKAuXU_2bvaqWKalquju8G9PtqiEAqTqDJ9pX-q2DwuskfWxxjjpc64kET-ThLrJ4wgtf7rxIrmA7qcw-abjA6jvyGQ-Ahq5SQeYevlZkLo4WKEP7HkFbWs4ypT5hR2T9Ga6yf9Xc3UT2JZu8WU7K6aIfkD_or3769IcuQIdCSKg8JsqFwuegFGyzvT8TMnEicCGqiX1_K2rjpzYss-b3tn1o-S1nVTHMxe_64-PZ4QOuOYDY51J4PT4fgZ1bMRNiKTUnUkFAsjIHcVVmmlpO5zDxw4H8KAJ8pgqcbnuzDozIMs0.jpg?r=ed6"
+            },
+            {
+                "serie": "Un asunto familiar",
+                "capitulo": "2h 0min",
+                "visto": 0,
+                "serie_id": 23,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWwr52XaLqKvfd2LqT2bb0QQbXUtjWxIp52PEX9_3Is-cwntoyOJDnYDhpoyVkzBXUhBpHvqX4IXoXr0W8SuhuEiwfREYSYVCXwfcNKkoA4OP4l6zVuSK62UD8mBNn2Xj22w.jpg?r=f3c"
+            },
+            {
+                "serie": "Arcane",
+                "capitulo": "1 Temporada",
+                "visto": 0,
+                "serie_id": 24,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYDdZSXCHfhWlQdaoa6mDhFCpB23RvxQa_WPKWG-HRSnBgZgotojmDTgJQJoiEpk5hQ0FrfN-WGY9UkdlSgJSMuxXW5lf624Z_uE5PqBBh4MQ3-pkEafGd9IjlhxtEVZWSK4.jpg?r=367"
+            },
+            {
+                "serie": "Glitch",
+                "capitulo": "2 Temporadas",
+                "visto": 0,
+                "serie_id": 25,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABazYXdaQ-NeJoqm65_y1G1KZiK2kCitnZq42pgrDVtEQMQa9CCy3p10pdV7Xi8gjvljfLYJmDizYkOl80mijzzHusEpAiLki0fRFxW1fD-eEHtDTtEjhKmWNzX3tA0-3CmiK.jpg?r=397"
+            }
         ]
     },
     {
         "usuario": "Hermano1",
         "recomendacion": {
             "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRgvbnr6dA8Qs_PGmXfY13rfhn0qXF2arU2XsMfn_MyQKoCoSjiZhljxEv8MeqU-nTGzvIZSWMVEec06NDQNgssrS4RzFWDohVK8.webp?r=d69",
-            "nombre": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfchCklC2sEhgjSewdtJFzHFyLDd-3ZkysmiEOXcR0cI2f2IQdh5mMOvMDG0SY4_1yeJ9NuTf9H6JFOVbel2jWU2ND9vnu5yGIXUrL7b077FjjynIfK8e5zP2iFl1A2aXidDIgnF9J-jEqXbPtKwM4UQReihnD-xHwdZl1R2GxBTN9r0d2MOFw.webp?r=b09",
+            "name": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfchCklC2sEhgjSewdtJFzHFyLDd-3ZkysmiEOXcR0cI2f2IQdh5mMOvMDG0SY4_1yeJ9NuTf9H6JFOVbel2jWU2ND9vnu5yGIXUrL7b077FjjynIfK8e5zP2iFl1A2aXidDIgnF9J-jEqXbPtKwM4UQReihnD-xHwdZl1R2GxBTN9r0d2MOFw.webp?r=b09",
             "descripcion": "Un adicto al trabajo obsesionado con el celular enfrenta una crisis en su matrimonio. Para no perder a su esposa, empieza una desintoxicación digital plagada de momentos cómicos.",
             "top10puesto": "https://www.netflix.com/tudum/top10/images/top10.png"
         },
@@ -387,13 +531,85 @@
                 "serie_id": 15,
                 "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTY_oFMWa4w_MOegHro1RQFJygb7yu6ECJNjt0DIKOAEA00qkrtT2db1NM6RKMyEuhv4LPUrF96wCiAEvoSewxNHpcLSAQvrnr4.webp?r=c69"
             }
+        ],
+        "netflix_only": [
+            {
+                "serie": "Stranger Things",
+                "capitulo": "5 Temporadas",
+                "visto": 0,
+                "serie_id": 16,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeOcksWOWxGcTzttFbFH1xw_nBhgq0hjZQapKbz3YHyOIkhZpUkRUeoTXKUF6bVHsb_DOqBD6-7IHCefVwUsvGesEmdvigC6Utm90MnsTktIAo9EKNelP_43K9wjvSDSs49y.jpg?r=07c"
+            },
+            {
+                "serie": "Cadaveres",
+                "capitulo": "Miniserie",
+                "visto": 0,
+                "serie_id": 17,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYygc-c_oWTXktaOTsqh-cWrmUizpWOu1arnBDaRq25EIUUfkHIlvW6Woo5Dbv1Ocd4rL9vLe9RzT6dh1SPYnPDLQP1yTWa6jgEb1el-7S_5nCYzB8fdUOF6rTr6nDMnarx8.jpg?r=8c4"
+            },
+            {
+                "serie": "El problema de los 3 cuerpos",
+                "capitulo": "1 Temporada",
+                "visto": 0,
+                "serie_id": 18,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY2SpYSW8Bjyf6_a5bzwmIG29d1zRRpHUEuWfHJK2U42-pea7hCFyAHSLv9LIRGSTGZ9mtQvGB_HsGGx0UpHh0vb2a7iEE-waQ7Qh5HL0Qil2H3GPMdI1pvIjnt9mbJnifyj.jpg?r=bac"
+            },
+            {
+                "serie": "Mindhunter",
+                "capitulo": "2 Temporadas",
+                "visto": 0,
+                "serie_id": 19,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc6afS5DUsbIu_pJe1EcQhezHpOh50GA6JACDSB2cJxijNG_l2loE4wQjbunfbbudjDiJkXEGHnS1EUG6bf6iiJ4wYiQdu029Ag0qrHMHNixOvudOalh3cbaERo5IjesCXxq.jpg?r=51c"
+            },
+            {
+                "serie": "Lucifer",
+                "capitulo": "5 temporadas",
+                "visto": 0,
+                "serie_id": 20,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb5yy1B5Edcr4shYbptYX7tqKp6zUADMYcT68nvjpdZC0gcS1nLdLGd1SigHjzyHw-bJNtAzhkdmG8O_E7ntkpu4lFnzvJkR5XkMUODGtdNCfYgS8gL-TEe4uZyUht4Mw8g_.jpg?r=929"
+            },
+            {
+                "serie": "Ginny y Georgia",
+                "capitulo": "2 Temporadas",
+                "visto": 0,
+                "serie_id": 21,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf1AsoscBvxxeHw-wmIPhGwC2NdUFtTPj-mABMK7IXxWlt0HGBuaj0ksORuZY7oYWVZfZAjO7lC0O7p8GmcsxTqz7WujEB9rLaDk5wE_KFKZmz2XUW4ULBUaF4MeCkCYsrqt.jpg?r=9f2"
+            },
+            {
+                "serie": "Emily en Paris",
+                "capitulo": "Miniserie",
+                "visto": 0,
+                "serie_id": 22,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQPonxHXzIsCGlTSV_50qCwhOf274cjqFBV80SaliMOqiO3wuCzCkQcyHstXwIXlrOiLPKAuXU_2bvaqWKalquju8G9PtqiEAqTqDJ9pX-q2DwuskfWxxjjpc64kET-ThLrJ4wgtf7rxIrmA7qcw-abjA6jvyGQ-Ahq5SQeYevlZkLo4WKEP7HkFbWs4ypT5hR2T9Ga6yf9Xc3UT2JZu8WU7K6aIfkD_or3769IcuQIdCSKg8JsqFwuegFGyzvT8TMnEicCGqiX1_K2rjpzYss-b3tn1o-S1nVTHMxe_64-PZ4QOuOYDY51J4PT4fgZ1bMRNiKTUnUkFAsjIHcVVmmlpO5zDxw4H8KAJ8pgqcbnuzDozIMs0.jpg?r=ed6"
+            },
+            {
+                "serie": "Un asunto familiar",
+                "capitulo": "2h 0min",
+                "visto": 0,
+                "serie_id": 23,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWwr52XaLqKvfd2LqT2bb0QQbXUtjWxIp52PEX9_3Is-cwntoyOJDnYDhpoyVkzBXUhBpHvqX4IXoXr0W8SuhuEiwfREYSYVCXwfcNKkoA4OP4l6zVuSK62UD8mBNn2Xj22w.jpg?r=f3c"
+            },
+            {
+                "serie": "Arcane",
+                "capitulo": "1 Temporada",
+                "visto": 0,
+                "serie_id": 24,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYDdZSXCHfhWlQdaoa6mDhFCpB23RvxQa_WPKWG-HRSnBgZgotojmDTgJQJoiEpk5hQ0FrfN-WGY9UkdlSgJSMuxXW5lf624Z_uE5PqBBh4MQ3-pkEafGd9IjlhxtEVZWSK4.jpg?r=367"
+            },
+            {
+                "serie": "Glitch",
+                "capitulo": "2 Temporadas",
+                "visto": 0,
+                "serie_id": 25,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABazYXdaQ-NeJoqm65_y1G1KZiK2kCitnZq42pgrDVtEQMQa9CCy3p10pdV7Xi8gjvljfLYJmDizYkOl80mijzzHusEpAiLki0fRFxW1fD-eEHtDTtEjhKmWNzX3tA0-3CmiK.jpg?r=397"
+            }
         ]
     },
     {
         "usuario": "Hermano2",
         "recomendacion": {
             "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRgvbnr6dA8Qs_PGmXfY13rfhn0qXF2arU2XsMfn_MyQKoCoSjiZhljxEv8MeqU-nTGzvIZSWMVEec06NDQNgssrS4RzFWDohVK8.webp?r=d69",
-            "nombre": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfchCklC2sEhgjSewdtJFzHFyLDd-3ZkysmiEOXcR0cI2f2IQdh5mMOvMDG0SY4_1yeJ9NuTf9H6JFOVbel2jWU2ND9vnu5yGIXUrL7b077FjjynIfK8e5zP2iFl1A2aXidDIgnF9J-jEqXbPtKwM4UQReihnD-xHwdZl1R2GxBTN9r0d2MOFw.webp?r=b09",
+            "name": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfchCklC2sEhgjSewdtJFzHFyLDd-3ZkysmiEOXcR0cI2f2IQdh5mMOvMDG0SY4_1yeJ9NuTf9H6JFOVbel2jWU2ND9vnu5yGIXUrL7b077FjjynIfK8e5zP2iFl1A2aXidDIgnF9J-jEqXbPtKwM4UQReihnD-xHwdZl1R2GxBTN9r0d2MOFw.webp?r=b09",
             "descripcion": "Un adicto al trabajo obsesionado con el celular enfrenta una crisis en su matrimonio. Para no perder a su esposa, empieza una desintoxicación digital plagada de momentos cómicos.",
             "top10puesto": "https://www.netflix.com/tudum/top10/images/top10.png"
         },
@@ -517,13 +733,85 @@
                 "serie_id": 15,
                 "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTY_oFMWa4w_MOegHro1RQFJygb7yu6ECJNjt0DIKOAEA00qkrtT2db1NM6RKMyEuhv4LPUrF96wCiAEvoSewxNHpcLSAQvrnr4.webp?r=c69"
             }
+        ],
+        "netflix_only": [
+            {
+                "serie": "Stranger Things",
+                "capitulo": "5 Temporadas",
+                "visto": 0,
+                "serie_id": 16,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeOcksWOWxGcTzttFbFH1xw_nBhgq0hjZQapKbz3YHyOIkhZpUkRUeoTXKUF6bVHsb_DOqBD6-7IHCefVwUsvGesEmdvigC6Utm90MnsTktIAo9EKNelP_43K9wjvSDSs49y.jpg?r=07c"
+            },
+            {
+                "serie": "Cadaveres",
+                "capitulo": "Miniserie",
+                "visto": 0,
+                "serie_id": 17,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYygc-c_oWTXktaOTsqh-cWrmUizpWOu1arnBDaRq25EIUUfkHIlvW6Woo5Dbv1Ocd4rL9vLe9RzT6dh1SPYnPDLQP1yTWa6jgEb1el-7S_5nCYzB8fdUOF6rTr6nDMnarx8.jpg?r=8c4"
+            },
+            {
+                "serie": "El problema de los 3 cuerpos",
+                "capitulo": "1 Temporada",
+                "visto": 0,
+                "serie_id": 18,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY2SpYSW8Bjyf6_a5bzwmIG29d1zRRpHUEuWfHJK2U42-pea7hCFyAHSLv9LIRGSTGZ9mtQvGB_HsGGx0UpHh0vb2a7iEE-waQ7Qh5HL0Qil2H3GPMdI1pvIjnt9mbJnifyj.jpg?r=bac"
+            },
+            {
+                "serie": "Mindhunter",
+                "capitulo": "2 Temporadas",
+                "visto": 0,
+                "serie_id": 19,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc6afS5DUsbIu_pJe1EcQhezHpOh50GA6JACDSB2cJxijNG_l2loE4wQjbunfbbudjDiJkXEGHnS1EUG6bf6iiJ4wYiQdu029Ag0qrHMHNixOvudOalh3cbaERo5IjesCXxq.jpg?r=51c"
+            },
+            {
+                "serie": "Lucifer",
+                "capitulo": "5 temporadas",
+                "visto": 0,
+                "serie_id": 20,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb5yy1B5Edcr4shYbptYX7tqKp6zUADMYcT68nvjpdZC0gcS1nLdLGd1SigHjzyHw-bJNtAzhkdmG8O_E7ntkpu4lFnzvJkR5XkMUODGtdNCfYgS8gL-TEe4uZyUht4Mw8g_.jpg?r=929"
+            },
+            {
+                "serie": "Ginny y Georgia",
+                "capitulo": "2 Temporadas",
+                "visto": 0,
+                "serie_id": 21,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf1AsoscBvxxeHw-wmIPhGwC2NdUFtTPj-mABMK7IXxWlt0HGBuaj0ksORuZY7oYWVZfZAjO7lC0O7p8GmcsxTqz7WujEB9rLaDk5wE_KFKZmz2XUW4ULBUaF4MeCkCYsrqt.jpg?r=9f2"
+            },
+            {
+                "serie": "Emily en Paris",
+                "capitulo": "Miniserie",
+                "visto": 0,
+                "serie_id": 22,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQPonxHXzIsCGlTSV_50qCwhOf274cjqFBV80SaliMOqiO3wuCzCkQcyHstXwIXlrOiLPKAuXU_2bvaqWKalquju8G9PtqiEAqTqDJ9pX-q2DwuskfWxxjjpc64kET-ThLrJ4wgtf7rxIrmA7qcw-abjA6jvyGQ-Ahq5SQeYevlZkLo4WKEP7HkFbWs4ypT5hR2T9Ga6yf9Xc3UT2JZu8WU7K6aIfkD_or3769IcuQIdCSKg8JsqFwuegFGyzvT8TMnEicCGqiX1_K2rjpzYss-b3tn1o-S1nVTHMxe_64-PZ4QOuOYDY51J4PT4fgZ1bMRNiKTUnUkFAsjIHcVVmmlpO5zDxw4H8KAJ8pgqcbnuzDozIMs0.jpg?r=ed6"
+            },
+            {
+                "serie": "Un asunto familiar",
+                "capitulo": "2h 0min",
+                "visto": 0,
+                "serie_id": 23,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWwr52XaLqKvfd2LqT2bb0QQbXUtjWxIp52PEX9_3Is-cwntoyOJDnYDhpoyVkzBXUhBpHvqX4IXoXr0W8SuhuEiwfREYSYVCXwfcNKkoA4OP4l6zVuSK62UD8mBNn2Xj22w.jpg?r=f3c"
+            },
+            {
+                "serie": "Arcane",
+                "capitulo": "1 Temporada",
+                "visto": 0,
+                "serie_id": 24,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYDdZSXCHfhWlQdaoa6mDhFCpB23RvxQa_WPKWG-HRSnBgZgotojmDTgJQJoiEpk5hQ0FrfN-WGY9UkdlSgJSMuxXW5lf624Z_uE5PqBBh4MQ3-pkEafGd9IjlhxtEVZWSK4.jpg?r=367"
+            },
+            {
+                "serie": "Glitch",
+                "capitulo": "2 Temporadas",
+                "visto": 0,
+                "serie_id": 25,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABazYXdaQ-NeJoqm65_y1G1KZiK2kCitnZq42pgrDVtEQMQa9CCy3p10pdV7Xi8gjvljfLYJmDizYkOl80mijzzHusEpAiLki0fRFxW1fD-eEHtDTtEjhKmWNzX3tA0-3CmiK.jpg?r=397"
+            }
         ]
     },
     {
         "usuario": "Niños",
         "recomendacion": {
             "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRgvbnr6dA8Qs_PGmXfY13rfhn0qXF2arU2XsMfn_MyQKoCoSjiZhljxEv8MeqU-nTGzvIZSWMVEec06NDQNgssrS4RzFWDohVK8.webp?r=d69",
-            "nombre": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfchCklC2sEhgjSewdtJFzHFyLDd-3ZkysmiEOXcR0cI2f2IQdh5mMOvMDG0SY4_1yeJ9NuTf9H6JFOVbel2jWU2ND9vnu5yGIXUrL7b077FjjynIfK8e5zP2iFl1A2aXidDIgnF9J-jEqXbPtKwM4UQReihnD-xHwdZl1R2GxBTN9r0d2MOFw.webp?r=b09",
+            "name": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfchCklC2sEhgjSewdtJFzHFyLDd-3ZkysmiEOXcR0cI2f2IQdh5mMOvMDG0SY4_1yeJ9NuTf9H6JFOVbel2jWU2ND9vnu5yGIXUrL7b077FjjynIfK8e5zP2iFl1A2aXidDIgnF9J-jEqXbPtKwM4UQReihnD-xHwdZl1R2GxBTN9r0d2MOFw.webp?r=b09",
             "descripcion": "Un adicto al trabajo obsesionado con el celular enfrenta una crisis en su matrimonio. Para no perder a su esposa, empieza una desintoxicación digital plagada de momentos cómicos.",
             "top10puesto": "https://www.netflix.com/tudum/top10/images/top10.png"
         },
@@ -646,6 +934,78 @@
                 "puesto": 10,
                 "serie_id": 15,
                 "imagen": "https://occ-0-2442-1740.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTY_oFMWa4w_MOegHro1RQFJygb7yu6ECJNjt0DIKOAEA00qkrtT2db1NM6RKMyEuhv4LPUrF96wCiAEvoSewxNHpcLSAQvrnr4.webp?r=c69"
+            }
+        ],
+        "netflix_only": [
+            {
+                "serie": "Stranger Things",
+                "capitulo": "5 Temporadas",
+                "visto": 0,
+                "serie_id": 16,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeOcksWOWxGcTzttFbFH1xw_nBhgq0hjZQapKbz3YHyOIkhZpUkRUeoTXKUF6bVHsb_DOqBD6-7IHCefVwUsvGesEmdvigC6Utm90MnsTktIAo9EKNelP_43K9wjvSDSs49y.jpg?r=07c"
+            },
+            {
+                "serie": "Cadaveres",
+                "capitulo": "Miniserie",
+                "visto": 0,
+                "serie_id": 17,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYygc-c_oWTXktaOTsqh-cWrmUizpWOu1arnBDaRq25EIUUfkHIlvW6Woo5Dbv1Ocd4rL9vLe9RzT6dh1SPYnPDLQP1yTWa6jgEb1el-7S_5nCYzB8fdUOF6rTr6nDMnarx8.jpg?r=8c4"
+            },
+            {
+                "serie": "El problema de los 3 cuerpos",
+                "capitulo": "1 Temporada",
+                "visto": 0,
+                "serie_id": 18,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABY2SpYSW8Bjyf6_a5bzwmIG29d1zRRpHUEuWfHJK2U42-pea7hCFyAHSLv9LIRGSTGZ9mtQvGB_HsGGx0UpHh0vb2a7iEE-waQ7Qh5HL0Qil2H3GPMdI1pvIjnt9mbJnifyj.jpg?r=bac"
+            },
+            {
+                "serie": "Mindhunter",
+                "capitulo": "2 Temporadas",
+                "visto": 0,
+                "serie_id": 19,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc6afS5DUsbIu_pJe1EcQhezHpOh50GA6JACDSB2cJxijNG_l2loE4wQjbunfbbudjDiJkXEGHnS1EUG6bf6iiJ4wYiQdu029Ag0qrHMHNixOvudOalh3cbaERo5IjesCXxq.jpg?r=51c"
+            },
+            {
+                "serie": "Lucifer",
+                "capitulo": "5 temporadas",
+                "visto": 0,
+                "serie_id": 20,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABb5yy1B5Edcr4shYbptYX7tqKp6zUADMYcT68nvjpdZC0gcS1nLdLGd1SigHjzyHw-bJNtAzhkdmG8O_E7ntkpu4lFnzvJkR5XkMUODGtdNCfYgS8gL-TEe4uZyUht4Mw8g_.jpg?r=929"
+            },
+            {
+                "serie": "Ginny y Georgia",
+                "capitulo": "2 Temporadas",
+                "visto": 0,
+                "serie_id": 21,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf1AsoscBvxxeHw-wmIPhGwC2NdUFtTPj-mABMK7IXxWlt0HGBuaj0ksORuZY7oYWVZfZAjO7lC0O7p8GmcsxTqz7WujEB9rLaDk5wE_KFKZmz2XUW4ULBUaF4MeCkCYsrqt.jpg?r=9f2"
+            },
+            {
+                "serie": "Emily en Paris",
+                "capitulo": "Miniserie",
+                "visto": 0,
+                "serie_id": 22,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQPonxHXzIsCGlTSV_50qCwhOf274cjqFBV80SaliMOqiO3wuCzCkQcyHstXwIXlrOiLPKAuXU_2bvaqWKalquju8G9PtqiEAqTqDJ9pX-q2DwuskfWxxjjpc64kET-ThLrJ4wgtf7rxIrmA7qcw-abjA6jvyGQ-Ahq5SQeYevlZkLo4WKEP7HkFbWs4ypT5hR2T9Ga6yf9Xc3UT2JZu8WU7K6aIfkD_or3769IcuQIdCSKg8JsqFwuegFGyzvT8TMnEicCGqiX1_K2rjpzYss-b3tn1o-S1nVTHMxe_64-PZ4QOuOYDY51J4PT4fgZ1bMRNiKTUnUkFAsjIHcVVmmlpO5zDxw4H8KAJ8pgqcbnuzDozIMs0.jpg?r=ed6"
+            },
+            {
+                "serie": "Un asunto familiar",
+                "capitulo": "2h 0min",
+                "visto": 0,
+                "serie_id": 23,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWwr52XaLqKvfd2LqT2bb0QQbXUtjWxIp52PEX9_3Is-cwntoyOJDnYDhpoyVkzBXUhBpHvqX4IXoXr0W8SuhuEiwfREYSYVCXwfcNKkoA4OP4l6zVuSK62UD8mBNn2Xj22w.jpg?r=f3c"
+            },
+            {
+                "serie": "Arcane",
+                "capitulo": "1 Temporada",
+                "visto": 0,
+                "serie_id": 24,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYDdZSXCHfhWlQdaoa6mDhFCpB23RvxQa_WPKWG-HRSnBgZgotojmDTgJQJoiEpk5hQ0FrfN-WGY9UkdlSgJSMuxXW5lf624Z_uE5PqBBh4MQ3-pkEafGd9IjlhxtEVZWSK4.jpg?r=367"
+            },
+            {
+                "serie": "Glitch",
+                "capitulo": "2 Temporadas",
+                "visto": 0,
+                "serie_id": 25,
+                "imagen": "https://occ-0-2442-185.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABazYXdaQ-NeJoqm65_y1G1KZiK2kCitnZq42pgrDVtEQMQa9CCy3p10pdV7Xi8gjvljfLYJmDizYkOl80mijzzHusEpAiLki0fRFxW1fD-eEHtDTtEjhKmWNzX3tA0-3CmiK.jpg?r=397"
             }
         ]
     }

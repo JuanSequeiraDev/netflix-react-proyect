@@ -13,23 +13,24 @@
     background-color: transparent;
     width: 35px;
     padding: 10px;
+    margin-left: 7px;
 }
 
 .home-header-nav{
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding-right: 15px;
+    padding: 5px 15px 0 0 ;
     gap: 10px;
 }
 
 .home-header-icons{
     color: white;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .tv-icon{
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .user-select-link{
@@ -49,7 +50,7 @@
     display: flex;
     flex-direction: column;
     background-color: #141414;
-    min-height: 140vh;
+    min-height: 100vh;
     max-height: 100%;
     padding-top: 8vh;
 }
@@ -59,7 +60,7 @@
     font-size: 15px;
 }
 
-/* ***********************************    HomeVideo    ************************************* */
+/* ***********************************    HomeReco    ************************************* */
 
 .recomendacion-principal{
     width: 100vw;
@@ -110,11 +111,12 @@
 }
 
 .recomendacion-principal .recomendacion-box .reco-specs-box .reco-description{
-    width: 170px;
+    width: 60%;
     padding-top: 2px;
-    font-size: 6px;
+    font-size: 7px;
     color: rgb(255, 255, 255);
     font-weight: 1000;
+    text-shadow: rgba(0, 0, 0, 0.26) -1px 1px;
 }
 
 .recomendacion-principal .recomendacion-box .reco-specs-box .button-box{
@@ -178,7 +180,7 @@
     position: relative;
     flex-direction: column;
     width: 150px;
-    height: 95px;
+/*     height: 95px; */
     align-items: center;
 }
 
@@ -206,4 +208,438 @@
 
 ::-webkit-scrollbar{
     width: 0px;
+}
+
+/* *************************************************************MEDIAQUERIES************************************************************************* */
+
+@media screen and (min-width: 400px){
+    .recomendacion-principal .recomendacion-box{
+        position: absolute;
+        top: 10%;
+        left: 10px;
+        display: flex;
+        flex-direction: column ;
+        padding-left: 15px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .title-box .reco-title{
+        width: 200px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box{
+        padding-top: 5px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .top10number{
+        width: 18px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .top10text{
+        font-size: 12px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .reco-description{
+        width: 60%;
+        padding-top: 2px;
+        font-size: 9px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .button-box{
+        font-size: 15px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .replay-bttn{
+        padding: 5px 20px;
+    }
+    
+}
+
+@media screen and (min-width: 700px){
+    .slider-title{
+        padding: 0 0 10px 15px;
+        font-size: 18px;
+    }
+
+    .series-sliders .series-nav{
+        gap: 15px;
+        padding: 5px 15px 10px 15px;
+    }
+
+    .recomendacion-principal .recomendacion-box .title-box .reco-title{
+        width: 350px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box{
+        padding-top: 10px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .top10number{
+        width: 30px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .top10text{
+        font-size: 18px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .reco-description{
+        width: 60%;
+        padding-top: 2px;
+        font-size: 12px;
+        text-shadow: rgba(0, 0, 0, 0.486) -2px 2px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .button-box{
+        font-size: 20px;
+        padding-top: 20px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .replay-bttn{
+        padding: 5px 20px;
+    }
+    
+}
+
+
+@media screen and (min-width: 1000px){
+    /* SlideShows */
+
+    .slider-title{
+        padding: 0 0 10px 15px;
+        font-size: 18px;
+    }
+
+    .series-sliders .series-nav{
+        gap: 15px;
+        padding: 5px 15px 10px 15px;
+    }
+    
+    .series-sliders .series-nav .serie-box{
+        width: 170px;
+    }
+    
+    .series-sliders .series-nav .serie-box .serie-img{
+        width: 170px;
+    }
+
+    .view-bar{
+        width: 140px;
+        height: 3.3px;
+    }
+
+    /* Header */
+    .home-header{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        background-color: rgba(0, 0, 0, 0.815);
+        width: 100vw;
+        height: 10%;
+        position: fixed;
+        z-index: 3;
+    }
+    
+    .home-header-nav{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding-right: 15px;
+        gap: 10px;
+    }
+    
+    .netflix-icon-home{
+        background-color: transparent;
+        width: 40px;
+        padding: 10px;
+        margin-left: 15px;
+    }
+
+    .home-header-icons{
+        font-size: 25px;
+    }
+    
+    .tv-icon{
+        font-size: 30px;
+    }
+    
+    .user-select-link{
+        text-decoration: none;
+        background-color: none;
+        outline: none;
+        cursor: pointer;
+    }
+    
+    .user-imagen{
+        margin: 10px 5px 0 5px;
+        width: 35px;
+    }
+
+
+    /* Main */
+    .recomendacion-principal{
+        margin-top: 1%;
+    }
+    
+    .recomendacion-img{
+        width: 100%;
+    }
+
+    .recomendacion-principal .recomendacion-box{
+        top: 15%;
+    }
+    
+    .recomendacion-principal .recomendacion-box .title-box .reco-title{
+        width: 500px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box{
+        padding-top: 20px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .top10number{
+        width: 40px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .top10text{
+        font-size: 23px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .reco-description{
+        width: 60%;
+        padding-top: 10px;
+        font-size: 18px;
+        text-shadow: rgba(0, 0, 0, 0.486) -2px 2px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .button-box{
+        font-size: 27px;
+        padding-top: 30px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .replay-bttn{
+        padding: 5px 20px;
+    }
+}
+
+@media screen and (min-width: 1400px){
+    /* Header */
+    .home-header{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        background-color: rgba(0, 0, 0, 0.815);
+        width: 100vw;
+        height: 10%;
+        position: fixed;
+        z-index: 3;
+    }
+    
+    .home-header-nav{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding-right: 15px;
+        gap: 10px;
+    }
+    
+    .netflix-icon-home{
+        background-color: transparent;
+        width: 40px;
+        padding: 10px;
+        margin-left: 15px;
+    }
+
+    .home-header-icons{
+        font-size: 25px;
+    }
+    
+    .tv-icon{
+        font-size: 30px;
+    }
+    
+    .user-select-link{
+        text-decoration: none;
+        background-color: none;
+        outline: none;
+        cursor: pointer;
+    }
+    
+    .user-imagen{
+        margin: 10px 5px 0 5px;
+        width: 35px;
+    }
+
+
+    /* Main */
+    .recomendacion-principal{
+        margin-top: 1%;
+    }
+    
+    .recomendacion-img{
+        width: 100%;
+    }
+
+    .recomendacion-principal .recomendacion-box{
+        top: 15%;
+    }
+    
+    .recomendacion-principal .recomendacion-box .title-box .reco-title{
+        width: 500px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box{
+        padding-top: 20px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .top10number{
+        width: 40px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .top10text{
+        font-size: 23px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .reco-description{
+        width: 60%;
+        padding-top: 10px;
+        font-size: 18px;
+        text-shadow: rgba(0, 0, 0, 0.486) -2px 2px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .button-box{
+        font-size: 27px;
+        padding-top: 30px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .replay-bttn{
+        padding: 5px 20px;
+    }
+
+    /* ***********************************    Slideshows    ************************************* */
+    /* SlideShows */
+
+    .slider-title{
+        padding: 0 0 10px 20px;
+        font-size: 23px;
+    }
+
+    .series-sliders .series-nav{
+        gap: 20px;
+        padding: 5px 20px 10px 20px;
+    }
+    
+    .series-sliders .series-nav .serie-box{
+        width: 220px;
+    }
+    
+    .series-sliders .series-nav .serie-box .serie-img{
+        width: 220px;
+    }
+
+    .view-bar{
+        margin-top: 10px;
+        width: 180px;
+    }
+}
+
+
+@media screen and (min-width: 1700px){
+    /* Header */
+    .home-header-nav{
+        gap: 15px;
+    }
+    
+    .netflix-icon-home{
+        background-color: transparent;
+        width: 45px;
+        padding: 8px;
+    }
+
+    .home-header-icons{
+        font-size: 36px;
+    }
+    
+    .tv-icon{
+        font-size: 41px;
+    }
+    
+    .user-imagen{
+        margin: 8px 10px 0 10px;
+        width: 50px;
+    }
+
+
+    /* Main */
+    .recomendacion-principal{
+        margin-top: 1%;
+    }
+    
+    .recomendacion-img{
+        width: 100%;
+    }
+
+    .recomendacion-principal .recomendacion-box{
+        top: 15%;
+        margin-left: 100px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .title-box .reco-title{
+        width: 750px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .top10number{
+        width: 60px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .top10text{
+        font-size: 35px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .reco-description{
+        width: 60%;
+        padding-top: 20px;
+        font-size: 25px;
+        text-shadow: rgba(0, 0, 0, 0.562) -2.5px 2.5px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .button-box{
+        font-size: 35px;
+        padding-top: 40px;
+    }
+    
+    .recomendacion-principal .recomendacion-box .reco-specs-box .replay-bttn{
+        padding: 10px 30px;
+    }
+
+    .recomendacion-principal .recomendacion-box .reco-specs-box .more-info-bttn{
+        padding: 10px 20px;
+    }
+
+    /* ***********************************    Slideshows    ************************************* */
+    /* SlideShows */
+
+    .slider-title{
+        padding: 0 0 10px 35px;
+        font-size: 30px;
+    }
+
+    .series-sliders .series-nav{
+        gap: 35px;
+        padding: 5px 35px 10px 35px;
+    }
+    
+    .series-sliders .series-nav .serie-box{
+        width: 280px;
+    }
+    
+    .series-sliders .series-nav .serie-box .serie-img{
+        width: 280px;
+    }
+
+    .view-bar{
+        margin-top: 10px;
+        width: 240px;
+        height: 5px;
+    }
 }
